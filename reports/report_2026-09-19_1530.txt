@@ -1,0 +1,1703 @@
+Job Leads Report — 170 matches
+Generated: 2026-09-19 15:30:29
+======================================================================
+
+1. Sr Solutions Architect
+   Company:  ExtraHop
+   Location: Remote
+   Score:    73
+   Reasons:  + python; + javascript; + api; + rest; + location fit; + salary ~$3000/mo; + recent; + remote
+   Apply:    https://remoteOK.com/remote-jobs/remote-sr-solutions-architect-extrahop-1137394
+
+----------------------------------------------------------------------
+
+2. Senior People & Talent Operations Partner
+   Company:  TestGorilla
+   Location: Remote
+   Score:    50
+   Reasons:  + automation; + rest; + location fit; + salary ~$20000/mo; + remote
+   Apply:    https://remoteOK.com/remote-jobs/remote-senior-people-talent-operations-partner-testgorilla-1137378
+
+----------------------------------------------------------------------
+
+3. DESARROLLADOR FULL STACK
+   Company:  Kruger NearShore LLC - Rekluti
+   Location: Remote
+   Score:    84
+   Reasons:  + python; + sql; + git; + api; + rest; + title match; + location fit; + salary ~$3000/mo; + remote
+   Apply:    https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062
+
+----------------------------------------------------------------------
+
+4. Senior .NET Full-stack Developer
+   Company:  Lemon.io
+   Location: Northern America, LATAM, Europe, APAC
+   Score:    84
+   Reasons:  + react; + automation; + title match; + salary ~$202000/mo; + very fresh; + remote; + async
+   Apply:    https://remotive.com/remote-jobs/software-development/senior-net-full-stack-developer-2091130
+
+----------------------------------------------------------------------
+
+5. Senior React Full-stack Developer
+   Company:  Lemon.io
+   Location: LATAM, Europe, USA, Canada, APAC
+   Score:    74
+   Reasons:  + react; + node; + title match; + salary ~$202000/mo; + remote; + async
+   Apply:    https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091101
+
+----------------------------------------------------------------------
+
+6. Senior DevOps Engineer
+   Company:  Lemon.io
+   Location: LATAM, Europe, USA, Canada, APAC
+   Score:    68
+   Reasons:  + python; + laravel; + php; + sql; + git; + salary ~$202000/mo; + remote
+   Apply:    https://remotive.com/remote-jobs/devops/senior-devops-engineer-2091099
+
+----------------------------------------------------------------------
+
+7. Senior System Engineer (m/w/d)
+   Company:  virtual7 GmbH
+   Location: Homeoffice
+   Score:    76
+   Reasons:  + python; + fastapi; + node; + ci/cd; + git; + api; + salary ~$7000/mo; + fresh/undated; + remote
+   Apply:    https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-system-engineer-bonn-440479
+
+----------------------------------------------------------------------
+
+8. Senior Fullstack Developer (m/w/d)
+   Company:  Techpilot
+   Location: München
+   Score:    84
+   Reasons:  + php; + react; + sql; + postgresql; + docker; + title match; + salary ~$2000/mo; + fresh/undated
+   Apply:    https://www.arbeitnow.com/jobs/companies/techpilot/senior-fullstack-developer-munchen-85442
+
+----------------------------------------------------------------------
+
+9. Engineering Lead (m/w/d)
+   Company:  GALVANY
+   Location: Berlin
+   Score:    71
+   Reasons:  + python; + laravel; + react; + automation; + git; + github; + fresh/undated
+   Apply:    https://www.arbeitnow.com/jobs/companies/galvany/engineering-lead-berlin-87197
+
+----------------------------------------------------------------------
+
+10. Software Engineer - Simulation Platform
+   Company:  Proxima Fusion GmbH
+   Location: Munich
+   Score:    45
+   Reasons:  + automation; + title match; + fresh/undated
+   Apply:    https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/software-engineer-simulation-platform-munich-424378
+
+----------------------------------------------------------------------
+
+11. Senior Security Engineer
+   Company:  capco
+   Location: Remote
+   Score:    58
+   Reasons:  + python; + automation; + ci/cd; + git; + location fit; + fresh/undated; + remote
+   Apply:    https://www.arbeitnow.co.uk/jobs/companies/capco/senior-security-engineer-488025
+
+----------------------------------------------------------------------
+
+12. Security Architect
+   Company:  capco
+   Location: Remote
+   Score:    58
+   Reasons:  + automation; + git; + api; + location fit; + salary ~$4000/mo; + fresh/undated; + remote
+   Apply:    https://www.arbeitnow.co.uk/jobs/companies/capco/security-architect-264336
+
+----------------------------------------------------------------------
+
+13. Principal Security Engineer
+   Company:  capco
+   Location: Remote
+   Score:    58
+   Reasons:  + python; + automation; + ci/cd; + git; + location fit; + fresh/undated; + remote
+   Apply:    https://www.arbeitnow.co.uk/jobs/companies/capco/principal-security-engineer-103819
+
+----------------------------------------------------------------------
+
+14. Sr. Software Engineer, Cloud Platform
+   Company:  Samsara
+   Location: United Kingdom
+   Score:    66
+   Reasons:  + automation; + git; + api; + title match; + salary ~$300000/mo; + fresh/undated
+   Apply:    https://www.arbeitnow.co.uk/jobs/companies/samsara/sr-software-engineer-cloud-platform-united-kingdom-372540
+
+----------------------------------------------------------------------
+
+15. Sr. Software Engineer, Cloud Platform
+   Company:  Samsara
+   Location: London, London, United Kingdom
+   Score:    66
+   Reasons:  + automation; + git; + api; + title match; + salary ~$300000/mo; + fresh/undated
+   Apply:    https://www.arbeitnow.co.uk/jobs/companies/samsara/sr-software-engineer-cloud-platform-london-432039
+
+----------------------------------------------------------------------
+
+16. Senior Solutions Architect (Data & AI)
+   Company:  databricks
+   Location: Remote
+   Score:    57
+   Reasons:  + python; + sql; + location fit; + salary ~$427000/mo; + fresh/undated; + remote; + contract
+   Apply:    https://www.arbeitnow.co.uk/jobs/companies/databricks/senior-solutions-architect-data-ai-467428
+
+----------------------------------------------------------------------
+
+17. Maintenance Technician
+   Company:  ocadogroup
+   Location: Erith
+   Score:    50
+   Reasons:  + react; + automation; + salary ~$3250/mo; + fresh/undated
+   Apply:    https://www.arbeitnow.co.uk/jobs/companies/ocadogroup/maintenance-technician-erith-17052
+
+----------------------------------------------------------------------
+
+18. Paid Search Manager
+   Company:  dept
+   Location: Remote
+   Score:    55
+   Reasons:  + automation; + git; + location fit; + salary ~$400000/mo; + fresh/undated; + remote
+   Apply:    https://www.arbeitnow.co.uk/jobs/companies/dept/paid-search-manager-89677
+
+----------------------------------------------------------------------
+
+19. Front-end Engineer
+   Company:  wppmedia
+   Location: Manchester
+   Score:    53
+   Reasons:  + javascript; + react; + git; + salary ~$39000/mo; + fresh/undated
+   Apply:    https://www.arbeitnow.co.uk/jobs/companies/wppmedia/front-end-engineer-manchester-66098
+
+----------------------------------------------------------------------
+
+20. Senior Platform Engineer
+   Company:  Decathlontechnology
+   Location: Lille - Btwin Village, Nord; Paris, Paris
+   Score:    47
+   Reasons:  + python; + ci/cd; + git; + github; + api; + salary ~$2000/mo; + fresh/undated
+   Apply:    https://www.arbeitnow.fr/jobs/companies/decathlontechnology/senior-platform-engineer-lille-btwin-village-nord-paris-paris-383769
+
+----------------------------------------------------------------------
+
+21. Senior AI Engineer -  AI Accelerator (f/m/d)
+   Company:  Decathlontechnology
+   Location: Lille, Upline, Nord; Paris, Paris
+   Score:    62
+   Reasons:  + python; + node; + sql; + docker; + git; + api; + salary ~$2000/mo; + fresh/undated
+   Apply:    https://www.arbeitnow.fr/jobs/companies/decathlontechnology/senior-ai-engineer-ai-accelerator-lille-upline-nord-paris-paris-57680
+
+----------------------------------------------------------------------
+
+22. Senior Fullstack Software Engineer (Ruby/React & TS)
+   Company:  Pennylane SAS
+   Location: Remote
+   Score:    62
+   Reasons:  + react; + title match; + location fit; + fresh/undated; + remote
+   Apply:    https://www.arbeitnow.fr/jobs/companies/pennylane-sas/remote-senior-fullstack-software-engineer-ruby-react-ts-283957
+
+----------------------------------------------------------------------
+
+23. Senior Full Stack Developer
+   Company:  mercor
+   Location: United Kingdom
+   Score:    67
+   Reasons:  + python; + api; + title match; + salary ~$3000/mo; + fresh/undated; + remote; + contract
+   Apply:    https://himalayas.app/companies/mercor/jobs/senior-full-stack-developer-7498601490
+
+----------------------------------------------------------------------
+
+24. Senior Full Stack Developer
+   Company:  mercor
+   Location: India
+   Score:    67
+   Reasons:  + python; + api; + title match; + salary ~$3000/mo; + fresh/undated; + remote; + contract
+   Apply:    https://himalayas.app/companies/mercor/jobs/senior-full-stack-developer-9109008871
+
+----------------------------------------------------------------------
+
+25. Senior Full Stack Developer
+   Company:  mercor
+   Location: Germany
+   Score:    67
+   Reasons:  + python; + api; + title match; + salary ~$3000/mo; + fresh/undated; + remote; + contract
+   Apply:    https://himalayas.app/companies/mercor/jobs/senior-full-stack-developer-531538291
+
+----------------------------------------------------------------------
+
+26. Senior Full Stack Developer
+   Company:  mercor
+   Location: United States
+   Score:    67
+   Reasons:  + python; + api; + title match; + salary ~$3000/mo; + fresh/undated; + remote; + contract
+   Apply:    https://himalayas.app/companies/mercor/jobs/senior-full-stack-developer
+
+----------------------------------------------------------------------
+
+27. Full Stack Developer
+   Company:  Second Talent
+   Location: China
+   Score:    125
+   Reasons:  + python; + django; + javascript; + react; + node; + api; + title match; + salary ~$3000/mo; + fresh/undated; + contract
+   Apply:    https://himalayas.app/companies/second-talent/jobs/full-stack-developer
+
+   ── Cover Letter ──
+   Subject: Application — Full Stack Developer at Second Talent
+   
+   Dear Hiring Manager,
+   
+   I came across the Full Stack Developer role at Second Talent and it aligns closely with my work in api, django, go.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+28. Software developer [Full stack]
+   Company:  Contxt.io
+   Location: India
+   Score:    101
+   Reasons:  + javascript; + react; + node; + git; + github; + rest; + title match; + salary ~$3000/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/contxt-io/jobs/software-developer-full-stack
+
+----------------------------------------------------------------------
+
+29. Full Stack Developer (AI-First)
+   Company:  Full Circle
+   Location: Albania
+   Score:    80
+   Reasons:  + react; + automation; + rest; + title match; + salary ~$3000/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/full-circle/jobs/full-stack-developer-ai-first-2902343008
+
+----------------------------------------------------------------------
+
+30. Full-stack Developer (Intermediate & Senior)
+   Company:  Sumara Technology
+   Location: United Arab Emirates
+   Score:    104
+   Reasons:  + javascript; + react; + node; + sql; + ci/cd; + git; + api; + title match; + salary ~$3000/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/sumara-technology/jobs/full-stack-developer-intermediate-senior
+
+----------------------------------------------------------------------
+
+31. Full Stack Developer (AI-First)
+   Company:  Full Circle
+   Location: Slovenia
+   Score:    80
+   Reasons:  + react; + automation; + rest; + title match; + salary ~$3000/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/full-circle/jobs/full-stack-developer-ai-first
+
+----------------------------------------------------------------------
+
+32. Full Stack Developer
+   Company:  One HR Hub
+   Location: United States
+   Score:    86
+   Reasons:  + react; + node; + sql; + postgresql; + docker; + title match; + salary ~$3000/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/one-hr-hub/jobs/full-stack-developer
+
+----------------------------------------------------------------------
+
+33. Full Stack Developer (AI-First)
+   Company:  Full Circle
+   Location: Bulgaria
+   Score:    80
+   Reasons:  + react; + automation; + rest; + title match; + salary ~$3000/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/full-circle/jobs/full-stack-developer-ai-first-4798936399
+
+----------------------------------------------------------------------
+
+34. Full Stack Developer (AI-First)
+   Company:  Full Circle
+   Location: Serbia
+   Score:    80
+   Reasons:  + react; + automation; + rest; + title match; + salary ~$3000/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/full-circle/jobs/full-stack-developer-ai-first-4774572740
+
+----------------------------------------------------------------------
+
+35. Full Stack Developer (AI-First)
+   Company:  Full Circle
+   Location: Bosnia and Herzegovina
+   Score:    80
+   Reasons:  + react; + automation; + rest; + title match; + salary ~$3000/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/full-circle/jobs/full-stack-developer-ai-first-2108971814
+
+----------------------------------------------------------------------
+
+36. Full Stack Developer (AI-First)
+   Company:  Full Circle
+   Location: Romania
+   Score:    80
+   Reasons:  + react; + automation; + rest; + title match; + salary ~$3000/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/full-circle/jobs/full-stack-developer-ai-first-6237871920
+
+----------------------------------------------------------------------
+
+37. Full Stack Developer (AI-First)
+   Company:  Full Circle
+   Location: Montenegro
+   Score:    80
+   Reasons:  + react; + automation; + rest; + title match; + salary ~$3000/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/full-circle/jobs/full-stack-developer-ai-first-7206514254
+
+----------------------------------------------------------------------
+
+38. Full Stack Developer (AI-First)
+   Company:  Full Circle
+   Location: North Macedonia
+   Score:    80
+   Reasons:  + react; + automation; + rest; + title match; + salary ~$3000/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/full-circle/jobs/full-stack-developer-ai-first-9727239209
+
+----------------------------------------------------------------------
+
+39. Senior Fullstack Developer (Java & JavaScript)
+   Company:  Directio Sp. z o.o.
+   Location: Poland
+   Score:    66
+   Reasons:  + javascript; + git; + api; + title match; + salary ~$250000/mo; + fresh/undated
+   Apply:    https://himalayas.app/companies/directio-sp-z-o-o/jobs/senior-fullstack-developer-java-javascript
+
+----------------------------------------------------------------------
+
+40. Senior Full Stack Developer
+   Company:  MENA Alliances
+   Location: United States
+   Score:    92
+   Reasons:  + react; + node; + sql; + mysql; + postgresql; + ci/cd; + api; + title match; + salary ~$3000/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/mena-alliances/jobs/senior-full-stack-developer
+
+----------------------------------------------------------------------
+
+41. Front End and Full Stack Developer (Remote - Ontario, Canada ONLY)
+   Company:  Ample Insight Inc.
+   Location: Canada
+   Score:    80
+   Reasons:  + react; + node; + rest; + title match; + salary ~$3000/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/ample-insight-inc/jobs/front-end-and-full-stack-developer-remote-ontario-canada-only-6102911886
+
+----------------------------------------------------------------------
+
+42. Sr. Full Stack Developer
+   Company:  Bia Energy
+   Location: Colombia
+   Score:    102
+   Reasons:  + python; + react; + node; + sql; + postgresql; + git; + api; + title match; + salary ~$3700/mo; + fresh/undated
+   Apply:    https://himalayas.app/companies/bia-energy/jobs/sr-full-stack-developer
+
+----------------------------------------------------------------------
+
+43. Full Stack React Developer - Remote ONLY MÉXICO
+   Company:  Scalepex
+   Location: Mexico
+   Score:    77
+   Reasons:  + javascript; + react; + title match; + salary ~$3000/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/scalepex/jobs/full-stack-react-developer-remote-only-mexico
+
+----------------------------------------------------------------------
+
+44. Full-stack Developer (SP)
+   Company:  Alter Solutions
+   Location: Poland
+   Score:    76
+   Reasons:  + react; + sql; + git; + api; + rest; + title match; + salary ~$3000/mo; + fresh/undated; + remote; + contract
+   Apply:    https://himalayas.app/companies/actdigital/jobs/full-stack-developer-sp
+
+----------------------------------------------------------------------
+
+45. Fullstack Engineer
+   Company:  Sarj.ai
+   Location: Saudi Arabia
+   Score:    66
+   Reasons:  + python; + sql; + postgresql; + title match; + salary ~$3000/mo; + fresh/undated
+   Apply:    https://himalayas.app/companies/sarj-ai/jobs/fullstack-engineer
+
+----------------------------------------------------------------------
+
+46. Software Engineer
+   Company:  ElitevoraSys LLC
+   Location: United States
+   Score:    123
+   Reasons:  + python; + django; + fastapi; + automation; + sql; + postgresql; + api; + rest; + title match; + salary ~$13333/mo; + fresh/undated; + remote; + contract; + async
+   Apply:    https://himalayas.app/companies/elitevorasys-llc/jobs/software-engineer
+
+   ── Cover Letter ──
+   Subject: Application — Software Engineer at ElitevoraSys LLC
+   
+   Dear Hiring Manager,
+   
+   I came across the Software Engineer role at ElitevoraSys LLC and it aligns closely with my work in api, automation, django.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+47. Senior Software Developer
+   Company:  DecisionPoint Corporation
+   Location: United States
+   Score:    62
+   Reasons:  + automation; + title match; + salary ~$3000/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/decisionpoint-corporation/jobs/senior-software-developer
+
+----------------------------------------------------------------------
+
+48. Senior React Native Developer
+   Company:  lemon.io
+   Location: Albania, Andorra, Australia, Austria, Belgium, Belize, Bolivia, Bosnia and Herzegovina, Brazil, Bulgaria, Canada, Chile, Colombia, Costa Rica, Croatia, Cyprus, Czechia, Denmark, Dominican Republic, Ecuador, El Salvador, Estonia, Finland, France, Germany, Greece, Guatemala, Haiti, Honduras, Hungary, Indonesia, Ireland, Israel, Italy, Jamaica, Japan, Latvia, Lithuania, Luxembourg, Malaysia, Malta, Mexico, Moldova, Montenegro, Morocco, Netherlands, New Zealand, North Macedonia, Norway, Panama, Papua New Guinea, Paraguay, Peru, Philippines, Poland, Portugal, Puerto Rico, Romania, Singapore, Slovakia, Slovenia, South Africa, South Korea, Spain, Sweden, Switzerland, Thailand, Turkey, Ukraine, United Kingdom, United States, Uruguay, Vietnam
+   Score:    69
+   Reasons:  + react; + node; + location fit; + salary ~$3000/mo; + fresh/undated; + remote; + async
+   Apply:    https://himalayas.app/companies/lemon-io/jobs/senior-react-native-developer-5236230554
+
+----------------------------------------------------------------------
+
+49. Remote -  Middle to Senior Python Developer - (Platform Integration)
+   Company:  Torrero
+   Location: Serbia
+   Score:    74
+   Reasons:  + python; + django; + sql; + postgresql; + api; + rest; + title match; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/torrero/jobs/remote-middle-to-senior-python-developer-platform-integration
+
+----------------------------------------------------------------------
+
+50. Full Stack Software Developer (Python/FastAPI & Vue.js) – Hybrid (Málaga)
+   Company:  pasiona
+   Location: Spain
+   Score:    89
+   Reasons:  + python; + fastapi; + ci/cd; + git; + github; + api; + title match; + salary ~$3000/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/pasiona/jobs/full-stack-software-developer-python-fastapi-vue-js-hybrid-malaga
+
+----------------------------------------------------------------------
+
+51. Senior Python Developer
+   Company:  BigTalent
+   Location: South Africa
+   Score:    140
+   Reasons:  + python; + django; + flask; + fastapi; + sql; + mysql; + postgresql; + git; + api; + rest; + title match; + location fit; + salary ~$2000/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/bigtalent/jobs/senior-python-developer
+
+   ── Cover Letter ──
+   Subject: Application — Senior Python Developer at BigTalent
+   
+   Dear Hiring Manager,
+   
+   I came across the Senior Python Developer role at BigTalent and it aligns closely with my work in api, django, git.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+52. Senior Python Developer
+   Company:  ITHR Technologies Consulting LLC
+   Location: India
+   Score:    92
+   Reasons:  + python; + flask; + sql; + mysql; + git; + api; + rest; + title match; + salary ~$3000/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/ithr-technologies-consulting-llc/jobs/senior-python-developer
+
+----------------------------------------------------------------------
+
+53. Python Developer (fully remote)
+   Company:  Ignite Digital
+   Location: United Kingdom
+   Score:    83
+   Reasons:  + python; + django; + sql; + postgresql; + title match; + salary ~$3000/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/ignite-digital/jobs/python-developer-fully-remote
+
+----------------------------------------------------------------------
+
+54. Python Developer
+   Company:  Alabama Solutions
+   Location: Uruguay
+   Score:    62
+   Reasons:  + python; + title match; + salary ~$3000/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/alabama-solutions/jobs/python-developer
+
+----------------------------------------------------------------------
+
+55. Senior Python Developer
+   Company:  BMAT
+   Location: Spain
+   Score:    77
+   Reasons:  + python; + sql; + postgresql; + docker; + ci/cd; + api; + title match; + salary ~$3000/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/bmat/jobs/senior-python-developer
+
+----------------------------------------------------------------------
+
+56. Backend Developer (Python)
+   Company:  ETHjuniors
+   Location: United States
+   Score:    125
+   Reasons:  + python; + django; + fastapi; + automation; + sql; + postgresql; + docker; + ci/cd; + api; + rest; + title match; + salary ~$3000/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/ethjuniors/jobs/backend-developer-python
+
+   ── Cover Letter ──
+   Subject: Application — Backend Developer (Python) at ETHjuniors
+   
+   Dear Hiring Manager,
+   
+   I came across the Backend Developer (Python) role at ETHjuniors and it aligns closely with my work in api, automation, ci/cd.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+57. PySide/Python/QML/Rasa Developer
+   Company:  PradeepIT Consulting Services Pvt Ltd
+   Location: India
+   Score:    55
+   Reasons:  + python; + javascript; + api; + salary ~$3000/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/pyside-python-qml-rasa-developer
+
+----------------------------------------------------------------------
+
+58. Python Developer
+   Company:  AssetIntel
+   Location: United States
+   Score:    60
+   Reasons:  + python; + title match; + salary ~$3000/mo; + fresh/undated
+   Apply:    https://himalayas.app/companies/assetintel/jobs/python-developer
+
+----------------------------------------------------------------------
+
+59. Freelance Python Developer (Remote, South / Latin America)
+   Company:  VT Enterprise
+   Location: Brazil
+   Score:    103
+   Reasons:  + python; + react; + automation; + sql; + api; + rest; + title match; + salary ~$75000/mo; + fresh/undated; + remote; + freelance
+   Apply:    https://himalayas.app/companies/vt-enterprise/jobs/freelance-python-developer-remote-south-latin-america
+
+----------------------------------------------------------------------
+
+60. Python Developer
+   Company:  Sajix Software Solution Private Limited
+   Location: United States
+   Score:    114
+   Reasons:  + python; + django; + fastapi; + automation; + git; + api; + rest; + title match; + salary ~$3000/mo; + fresh/undated
+   Apply:    https://himalayas.app/companies/sajix-software-solution-private-limited/jobs/python-developer
+
+----------------------------------------------------------------------
+
+61. Python Backend Developer
+   Company:  Pearster
+   Location: Argentina, Colombia, France
+   Score:    140
+   Reasons:  + python; + django; + flask; + fastapi; + automation; + sql; + docker; + ci/cd; + git; + api; + rest; + title match; + salary ~$3000/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/pearster/jobs/python-backend-developer
+
+   ── Cover Letter ──
+   Subject: Application — Python Backend Developer at Pearster
+   
+   Dear Hiring Manager,
+   
+   I came across the Python Backend Developer role at Pearster and it aligns closely with my work in api, automation, ci/cd.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+62. Python Developer
+   Company:  Madiff
+   Location: United States
+   Score:    116
+   Reasons:  + python; + flask; + fastapi; + node; + sql; + git; + api; + title match; + salary ~$3000/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/madiff/jobs/python-developer
+
+   ── Cover Letter ──
+   Subject: Application — Python Developer at Madiff
+   
+   Dear Hiring Manager,
+   
+   I came across the Python Developer role at Madiff and it aligns closely with my work in api, git, java.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+63. Python Developer - Fully Remote | Upto $50/hr
+   Company:  mercor
+   Location: Germany
+   Score:    70
+   Reasons:  + python; + docker; + api; + title match; + salary ~$3000/mo; + fresh/undated; + remote; + contract
+   Apply:    https://himalayas.app/companies/mercor/jobs/python-developer-fully-remote-upto-50-hr-1900184430
+
+----------------------------------------------------------------------
+
+64. Remote - Middle to Senior Python Developer - (Sports Team)
+   Company:  Torrero
+   Location: Serbia
+   Score:    74
+   Reasons:  + python; + django; + sql; + postgresql; + api; + rest; + title match; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/torrero/jobs/remote-middle-to-senior-python-developer-sports-team
+
+----------------------------------------------------------------------
+
+65. Lead Backend Developer
+   Company:  MindPlus (Pvt) Ltd
+   Location: Sri Lanka
+   Score:    95
+   Reasons:  + python; + fastapi; + sql; + postgresql; + docker; + git; + api; + rest; + title match; + salary ~$3000/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/mindplus-pvt-ltd/jobs/lead-backend-developer
+
+----------------------------------------------------------------------
+
+66. Senior Backend Developer
+   Company:  CommIT
+   Location: Ukraine
+   Score:    90
+   Reasons:  + python; + javascript; + automation; + title match; + salary ~$3000/mo; + fresh/undated
+   Apply:    https://himalayas.app/companies/commit/jobs/senior-backend-developer
+
+----------------------------------------------------------------------
+
+67. Backend Engineer
+   Company:  Xpert Development
+   Location: United States
+   Score:    67
+   Reasons:  + python; + api; + title match; + salary ~$12500/mo; + fresh/undated; + remote; + equity
+   Apply:    https://himalayas.app/companies/xpert-development/jobs/backend-engineer
+
+----------------------------------------------------------------------
+
+68. Backend Developer (Node.js / Express)
+   Company:  Remote Office
+   Location: United States
+   Score:    86
+   Reasons:  + javascript; + node; + sql; + api; + rest; + title match; + salary ~$3000/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/remote-office/jobs/backend-developer-node-js-express
+
+----------------------------------------------------------------------
+
+69. Backend Developer
+   Company:  Helix Workforce
+   Location: United States
+   Score:    77
+   Reasons:  + python; + php; + title match; + salary ~$29166/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/helix-workforce/jobs/backend-developer
+
+----------------------------------------------------------------------
+
+70. Staff Software Engineer (Back-End)
+   Company:  OpenFn
+   Location: South Africa
+   Score:    99
+   Reasons:  + node; + automation; + git; + title match; + location fit; + salary ~$15000/mo; + fresh/undated; + remote; + contract; + contractor
+   Apply:    https://himalayas.app/companies/openfn/jobs/staff-software-engineer-back-end
+
+----------------------------------------------------------------------
+
+71. Backend Developer
+   Company:  Lingaro
+   Location: India
+   Score:    93
+   Reasons:  + python; + fastapi; + sql; + postgresql; + ci/cd; + api; + title match; + salary ~$3000/mo; + fresh/undated; + remote; + contract; + equity
+   Apply:    https://himalayas.app/companies/lingaro/jobs/backend-developer
+
+----------------------------------------------------------------------
+
+72. Multiple Engineering + Product Roles
+   Company:  Snout https://snout.com/
+   Location: Remote US or Ontario, Canada
+   Score:    103
+   Reasons:  + python; + javascript; + react; + node; + sql; + postgresql; + location fit; + salary ~$100000/mo; + fresh/undated; + remote
+   Apply:    https://snout.com/
+
+----------------------------------------------------------------------
+
+73. https://neuralwatt.com
+   Company:  Neuralwatt
+   Location: REMOTE
+   Score:    63
+   Reasons:  + python; + git; + github; + rest; + location fit; + salary ~$2000/mo; + fresh/undated; + remote; + equity
+   Apply:    https://neuralwatt.com
+
+----------------------------------------------------------------------
+
+74. ONSITE
+   Company:  Shepherd (Series B)
+   Location: San Francisco, CA At Shepherd, we're pursuing the most ambit
+   Score:    53
+   Reasons:  + react; + node; + api; + salary ~$42000/mo; + fresh/undated
+   Apply:    https://shepherdinsurance.com/careers
+
+----------------------------------------------------------------------
+
+75. https://astronomer.io
+   Company:  Astronomer
+   Location: NYC preferably, open to remote
+   Score:    61
+   Reasons:  + python; + git; + github; + rest; + location fit; + salary ~$10000/mo; + fresh/undated; + remote
+   Apply:    https://astronomer.io
+
+----------------------------------------------------------------------
+
+76. Backend Systems Engineer (Rust)
+   Company:  Proxybase
+   Location: Remote, Global
+   Score:    56
+   Reasons:  + node; + sql; + sqlite; + git; + github; + rest; + location fit; + fresh/undated; + remote; + equity; + async
+   Apply:    https://proxybase.xyz
+
+----------------------------------------------------------------------
+
+77. Senior Backend Engineer, Payments, Ledger & Provable Fairness
+   Company:  Noricum
+   Location: REMOTE (2h overlap with US Pacific)
+   Score:    79
+   Reasons:  + automation; + title match; + location fit; + salary ~$2000/mo; + fresh/undated; + remote; + contract
+   Apply:    https://news.ycombinator.com/item?id=49523604
+
+----------------------------------------------------------------------
+
+78. https://sudowrite.com
+   Company:  Sudowrite
+   Location: √ REMOTE (US)
+   Score:    54
+   Reasons:  + react; + location fit; + salary ~$160000/mo; + fresh/undated; + remote; + equity
+   Apply:    https://sudowrite.com
+
+----------------------------------------------------------------------
+
+79. SENIOR SOFTWARE ENGINEER (Python/Django + JavaScript - VueJS/React)
+   Company:  VersaFeed.com
+   Location: REMOTE (USA ONLY)
+   Score:    141
+   Reasons:  + python; + django; + javascript; + react; + sql; + postgresql; + docker; + ci/cd; + git; + title match; + location fit; + salary ~$1500/mo; + fresh/undated; + remote; + equity; + async
+   Apply:    https://news.ycombinator.com/item?id=49523703
+
+   ── Cover Letter ──
+   Subject: Application — SENIOR SOFTWARE ENGINEER (Python/Django + JavaScript - VueJS/React) at VersaFeed.com
+   
+   Dear Hiring Manager,
+   
+   I came across the SENIOR SOFTWARE ENGINEER (Python/Django + JavaScript - VueJS/React) role at VersaFeed.com and it aligns closely with my work in ci/cd, django, docker.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+80. https://cyberatlas.ai
+   Company:  CyberAtlas
+   Location: Software Engineer
+   Score:    61
+   Reasons:  + python; + flask; + fastapi; + docker; + git; + api; + fresh/undated; + remote
+   Apply:    https://cyberatlas.ai
+
+----------------------------------------------------------------------
+
+81. https://monumint.com
+   Company:  Monumint (YC W24)
+   Location: Full Stack Engineers
+   Score:    53
+   Reasons:  + react; + node; + docker; + salary ~$24000/mo; + fresh/undated
+   Apply:    https://monumint.com
+
+----------------------------------------------------------------------
+
+82. Associate Software Engineer, Expenses
+   Company:  Justworks
+   Location: Toronto, Canada
+   Score:    75
+   Reasons:  + javascript; + sql; + mysql; + docker; + api; + rest; + title match; + salary ~$109000/mo; + fresh/undated
+   Apply:    https://grnh.se/wlv9zr391us
+
+----------------------------------------------------------------------
+
+83. ON SITE TORONTO MUST BE ON SITE. REMOTE WILL BE IGNORED
+   Company:  Lead SWE
+   Location: $130,000 – $210,000 CAD
+   Score:    45
+   Reasons:  + node; + sql; + postgresql; + salary ~$130000/mo; + fresh/undated; + remote; + equity
+   Apply:    https://news.ycombinator.com/item?id=49523830
+
+----------------------------------------------------------------------
+
+84. Software Engineers (Senior, Staff, Principal)
+   Company:  *Fastly
+   Location: US, UK, EU, APAC ONSITE PREFERRED
+   Score:    62
+   Reasons:  + python; + javascript; + title match; + fresh/undated; + remote
+   Apply:    https://www.fastly.com/about/careers
+
+----------------------------------------------------------------------
+
+85. Senior AI Engineer and Senior Product Engineer
+   Company:  Starbridge
+   Location: NYC or Remote
+   Score:    52
+   Reasons:  + python; + react; + location fit; + fresh/undated; + remote
+   Apply:    https://starbridge.ai/
+
+----------------------------------------------------------------------
+
+86. Senior SWE, AI Automation Engr, Senior PM
+   Company:  WorkHero https://workhero.pro
+   Location: REMOTE (US+INTL for eng, US for product & automations) WorkH
+   Score:    86
+   Reasons:  + react; + node; + automation; + location fit; + salary ~$89000/mo; + fresh/undated; + remote; + contract; + contractor
+   Apply:    https://workhero.pro
+
+----------------------------------------------------------------------
+
+87. Full-time
+   Company:  Findigs
+   Location: NYC
+   Score:    67
+   Reasons:  + python; + django; + react; + salary ~$3000/mo; + fresh/undated; + equity
+   Apply:    https://jobs.lever.co/findigs/1ea92751-1c85-4eb6-84b4-86c529...
+
+----------------------------------------------------------------------
+
+88. https://e123insurtech.com
+   Company:  Enrollment123
+   Location: Staff Platform Engineer
+   Score:    73
+   Reasons:  + python; + node; + automation; + sql; + rest; + salary ~$123000/mo; + fresh/undated; + remote
+   Apply:    https://e123insurtech.com
+
+----------------------------------------------------------------------
+
+89. Software Engineer
+   Company:  InfoHawk
+   Location: London, UK or NYC
+   Score:    95
+   Reasons:  + node; + scraping; + playwright; + api; + title match; + salary ~$2000/mo; + fresh/undated; + remote
+   Apply:    https://www.infohawk.com
+
+----------------------------------------------------------------------
+
+90. Software Engineer
+   Company:  OpenAlex
+   Location: Remote
+   Score:    98
+   Reasons:  + python; + flask; + sql; + api; + title match; + location fit; + salary ~$150000/mo; + fresh/undated; + remote
+   Apply:    https://openalex.org/jobs/software-engineer
+
+----------------------------------------------------------------------
+
+91. https://www.govstar.us
+   Company:  GovStar
+   Location: Remote (U.S. — Eastern/Central Time)
+   Score:    97
+   Reasons:  + python; + react; + automation; + docker; + ci/cd; + git; + github; + api; + location fit; + salary ~$5000/mo; + fresh/undated; + remote
+   Apply:    https://www.govstar.us
+
+----------------------------------------------------------------------
+
+92. Lead Software Engineer
+   Company:  Relevant Healthcare
+   Location: Remote (US)
+   Score:    83
+   Reasons:  + react; + api; + rest; + title match; + location fit; + salary ~$25000/mo; + fresh/undated; + remote
+   Apply:    https://relevant.healthcare/jobs/
+
+----------------------------------------------------------------------
+
+93. Founding Engineer
+   Company:  Sunspell
+   Location: New York, NY
+   Score:    56
+   Reasons:  + python; + react; + node; + git; + github; + fresh/undated
+   Apply:    https://sunspell.fm/careers/founding-engineer
+
+----------------------------------------------------------------------
+
+94. Frontline Engineering Manager, Senior Engineering Manager
+   Company:  DAT
+   Location: Seattle, Portland, Denver
+   Score:    72
+   Reasons:  + react; + node; + automation; + rest; + salary ~$2000/mo; + fresh/undated; + contract; + contractor
+   Apply:    https://careers.dat.com/jobs/?gh_jid=6139594004
+
+----------------------------------------------------------------------
+
+95. Software + FDE + AI Engineers
+   Company:  Balerion AI
+   Location: San Francisco, CA
+   Score:    46
+   Reasons:  + python; + git; + github; + rest; + salary ~$250000/mo; + fresh/undated; + equity
+   Apply:    https://balerion.ai
+
+----------------------------------------------------------------------
+
+96. Founding AI Engineer — Agentic Systems
+   Company:  Astoria AI
+   Location: Remote (async)
+   Score:    65
+   Reasons:  + python; + git; + github; + api; + location fit; + salary ~$190000/mo; + fresh/undated; + remote; + equity; + async
+   Apply:    https://news.ycombinator.com/item?id=49525603
+
+----------------------------------------------------------------------
+
+97. Lead Engineer
+   Company:  Relevant Healthcare
+   Location: Remote (US/Canada only)
+   Score:    58
+   Reasons:  + react; + api; + rest; + location fit; + salary ~$25000/mo; + fresh/undated; + remote
+   Apply:    https://relevant.healthcare/jobs/
+
+----------------------------------------------------------------------
+
+98. Senior Software Engineer, Application Security
+   Company:  Discord
+   Location: San Francisco, CA
+   Score:    93
+   Reasons:  + python; + javascript; + react; + rest; + title match; + salary ~$280000/mo; + fresh/undated
+   Apply:    https://job-boards.greenhouse.io/discord/jobs/8656854002
+
+----------------------------------------------------------------------
+
+99. YC 19
+   Company:  Ashby
+   Location: REMOTE
+   Score:    72
+   Reasons:  + react; + node; + api; + location fit; + salary ~$19000/mo; + fresh/undated; + remote; + async
+   Apply:    https://www.ashbyhq.com/blog/engineering/ai-ashby-engineerin...
+
+----------------------------------------------------------------------
+
+100. Software Engineer
+   Company:  Silkline
+   Location: Chicago, Seattle
+   Score:    65
+   Reasons:  + react; + api; + title match; + salary ~$5000/mo; + fresh/undated; + equity
+   Apply:    https://silkline.ai
+
+----------------------------------------------------------------------
+
+101. Virtasant.com
+   Company:  Virtasant (1099 contractor for a client of ours)
+   Location: Remote (USA)
+   Score:    65
+   Reasons:  + python; + sql; + docker; + ci/cd; + location fit; + salary ~$109000/mo; + fresh/undated; + remote; + contract; + contractor
+   Apply:    https://virtasant.teamtailor.com/jobs/7563920-senior-data-en...
+
+----------------------------------------------------------------------
+
+102. Software Engineers
+   Company:  Anterior
+   Location: NYC
+   Score:    66
+   Reasons:  + python; + git; + github; + title match; + salary ~$5000/mo; + fresh/undated
+   Apply:    https://xn--xp5a.anterior.app
+
+----------------------------------------------------------------------
+
+103. Software Engineer
+   Company:  Jawa.gg
+   Location: Boulder, CO or remote
+   Score:    79
+   Reasons:  + node; + title match; + location fit; + salary ~$202000/mo; + fresh/undated; + remote; + contract
+   Apply:    https://jawagg.notion.site/Full-Stack-Software-Engineer-412c...
+
+----------------------------------------------------------------------
+
+104. Backend & Cloud Platform Engineer
+   Company:  Newtwen
+   Location: REMOTE (EU)
+   Score:    82
+   Reasons:  + python; + fastapi; + docker; + ci/cd; + git; + github; + api; + location fit; + salary ~$70000/mo; + fresh/undated; + remote
+   Apply:    https://news.ycombinator.com/item?id=49527588
+
+----------------------------------------------------------------------
+
+105. Software Engineer (L4)
+   Company:  Paramark
+   Location: San Francisco HYBRID (3 days/wk) or REMOTE (US)
+   Score:    115
+   Reasons:  + python; + fastapi; + react; + api; + rest; + title match; + location fit; + salary ~$4000/mo; + fresh/undated; + remote; + equity
+   Apply:    https://www.mercurynews.com/2025/08/25/silicon-valley-startu...
+
+   ── Cover Letter ──
+   Subject: Application — Software Engineer (L4) at Paramark
+   
+   Dear Hiring Manager,
+   
+   I came across the Software Engineer (L4) role at Paramark and it aligns closely with my work in api, go, python.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+106. Senior Technical Product Engineer, Technical Product Engineer (Early Career)
+   Company:  Biobase
+   Location: REMOTE (US, Canada)
+   Score:    87
+   Reasons:  + python; + fastapi; + react; + api; + location fit; + salary ~$150000/mo; + fresh/undated; + remote; + equity
+   Apply:    https://biobase.ai/careers
+
+----------------------------------------------------------------------
+
+107. Backend Engineer
+   Company:  Product Genius
+   Location: REMOTE (US)
+   Score:    100
+   Reasons:  + python; + react; + sql; + api; + title match; + location fit; + salary ~$165000/mo; + fresh/undated; + remote; + equity
+   Apply:    https://jobs.ashbyhq.com/productgenius/b9f0cb32-612d-45ff-bc...
+
+----------------------------------------------------------------------
+
+108. Senior Security Engineer (product security)
+   Company:  Zepto
+   Location: REMOTE (AUS)
+   Score:    55
+   Reasons:  + automation; + rest; + location fit; + salary ~$104000/mo; + fresh/undated; + remote
+   Apply:    https://zepto.bamboohr.com/careers/104
+
+----------------------------------------------------------------------
+
+109. Platform Engineer
+   Company:  Chronograph (chronograph.pe)
+   Location: Full-Time
+   Score:    60
+   Reasons:  + node; + sql; + postgresql; + docker; + git; + github; + api; + rest; + salary ~$175000/mo; + fresh/undated; + remote; + equity
+   Apply:    https://grnh.se/1pm4u2ys7us
+
+----------------------------------------------------------------------
+
+110. CTO Cofounder
+   Company:  DrSwarm
+   Location: Bay Area
+   Score:    52
+   Reasons:  + python; + django; + salary ~$11000/mo; + fresh/undated; + equity
+   Apply:    https://news.ycombinator.com/item?id=49530057
+
+----------------------------------------------------------------------
+
+111. Remote (US and Canada)
+   Company:  Mattermost
+   Location: FT
+   Score:    70
+   Reasons:  + react; + automation; + sql; + postgresql; + git; + github; + api; + rest; + salary ~$142000/mo; + fresh/undated; + remote
+   Apply:    https://mattermost.com
+
+----------------------------------------------------------------------
+
+112. https://seeq.com
+   Company:  Seeq
+   Location: Staff/Principal Software Engineer (Full-Stack, AI, Backend, 
+   Score:    54
+   Reasons:  + python; + react; + salary ~$14166/mo; + fresh/undated; + remote; + equity
+   Apply:    https://seeq.com
+
+----------------------------------------------------------------------
+
+113. Robotics Software Engineer (Early Career + Experienced)
+   Company:  Greenzie
+   Location: Atlanta, GA
+   Score:    60
+   Reasons:  + python; + title match; + salary ~$2000/mo; + fresh/undated
+   Apply:    https://greenzie.applytojob.com/apply
+
+----------------------------------------------------------------------
+
+114. Senior Backend Software Engineer
+   Company:  Hiya
+   Location: Seattle, WA
+   Score:    82
+   Reasons:  + python; + node; + docker; + title match; + salary ~$113000/mo; + fresh/undated; + equity; + async
+   Apply:    https://jobs.ashbyhq.com/hiya/2de4d41b-a919-48c4-9a6c-e0d4f3...
+
+----------------------------------------------------------------------
+
+115. https://serpapi.com
+   Company:  SerpApi
+   Location: Junior to Senior Fullstack Engineer multiple positions
+   Score:    78
+   Reasons:  + python; + php; + react; + git; + github; + api; + salary ~$150000/mo; + fresh/undated; + remote; + async
+   Apply:    https://serpapi.com
+
+----------------------------------------------------------------------
+
+116. Python + SQL Software Engineer
+   Company:  Multiply
+   Location: On-site
+   Score:    81
+   Reasons:  + python; + fastapi; + sql; + api; + title match; + salary ~$130000/mo; + fresh/undated
+   Apply:    https://news.ycombinator.com/item?id=49532978
+
+----------------------------------------------------------------------
+
+117. Software Developer
+   Company:  Odoo
+   Location: Hybrid (Belgium, 3 days/week)
+   Score:    68
+   Reasons:  + python; + sql; + postgresql; + title match; + salary ~$3000/mo; + fresh/undated; + flexible hours
+   Apply:    https://www.odoo.com/r/4zN
+
+----------------------------------------------------------------------
+
+118. 2 Full Stack AI Engineer, 1 GTM
+   Company:  Interview Resources
+   Location: REMOTE
+   Score:    110
+   Reasons:  + react; + node; + sql; + postgresql; + docker; + git; + github; + api; + title match; + location fit; + salary ~$2000/mo; + fresh/undated; + remote
+   Apply:    https://www.interviewresources.app/careers
+
+----------------------------------------------------------------------
+
+119. Berlin, Freiburg, NYC
+   Company:  Prior Labs
+   Location: ONSITE
+   Score:    59
+   Reasons:  + python; + fastapi; + react; + git; + github; + api; + fresh/undated
+   Apply:    https://github.com/PriorLabs/TabPFN
+
+----------------------------------------------------------------------
+
+120. Platform Engineer
+   Company:  Senzing (entity resolution SDK)
+   Location: Remote (USA)
+   Score:    61
+   Reasons:  + python; + sql; + postgresql; + api; + location fit; + salary ~$3000/mo; + fresh/undated; + remote
+   Apply:    https://news.ycombinator.com/item?id=49539168
+
+----------------------------------------------------------------------
+
+121. Backend Software Engineer
+   Company:  Enveritas (YC S18, non-profit)
+   Location: Remote (Global)
+   Score:    89
+   Reasons:  + python; + sql; + postgresql; + docker; + rest; + title match; + location fit; + salary ~$18000/mo; + fresh/undated; + remote
+   Apply:    https://enveritas.org/jobs/
+
+----------------------------------------------------------------------
+
+122. Senior Full-Stack AI Engineer (CTO track)
+   Company:  Legile
+   Location: Antwerp, Belgium
+   Score:    89
+   Reasons:  + python; + fastapi; + react; + sql; + postgresql; + ci/cd; + api; + title match; + fresh/undated; + contract
+   Apply:    https://news.ycombinator.com/item?id=49541500
+
+----------------------------------------------------------------------
+
+123. Software Engineer, Data & ML
+   Company:  Foray Bioscience
+   Location: On-Site (Cambridge, MA)
+   Score:    65
+   Reasons:  + python; + api; + title match; + salary ~$105000/mo; + fresh/undated; + equity
+   Apply:    https://jobs.polymer.co/foray-bioscience/41044?source=Hacker...
+
+----------------------------------------------------------------------
+
+124. Senior Software Engineer I
+   Company:  Tecuity
+   Location: Hyde Park, UT (ONSITE preferred; will consider candidates wh
+   Score:    57
+   Reasons:  + react; + sql; + ci/cd; + git; + api; + title match; + fresh/undated
+   Apply:    https://news.ycombinator.com/item?id=49543040
+
+----------------------------------------------------------------------
+
+125. Senior Design Engineer, Senior Platform Engineer — Edge Systems
+   Company:  Odin
+   Location: Remote (US)
+   Score:    52
+   Reasons:  + react; + node; + location fit; + fresh/undated; + remote
+   Apply:    https://useodin.com
+
+----------------------------------------------------------------------
+
+126. Founding Engineer
+   Company:  Duets Network
+   Location: REMOTE (US-Based Only)
+   Score:    84
+   Reasons:  + react; + node; + sql; + postgresql; + ci/cd; + api; + rest; + location fit; + salary ~$10000/mo; + fresh/undated; + remote; + equity
+   Apply:    https://news.ycombinator.com/item?id=49544301
+
+----------------------------------------------------------------------
+
+127. Various Software Engineering Roles
+   Company:  Prophet Town LLC
+   Location: US – Remote and Hybrid
+   Score:    110
+   Reasons:  + python; + javascript; + react; + api; + title match; + location fit; + salary ~$11666/mo; + fresh/undated; + remote
+   Apply:    https://forms.gle/tZwq7j2Ldwcas1wb7
+
+----------------------------------------------------------------------
+
+128. https://www.traxtech.com/
+   Company:  Trax
+   Location: Onsite Cebu PH, Remote Costa Rica, Remote US are possible
+   Score:    67
+   Reasons:  + javascript; + node; + location fit; + salary ~$8000/mo; + fresh/undated; + remote
+   Apply:    https://www.traxtech.com/
+
+----------------------------------------------------------------------
+
+129. Sr. Engineer
+   Company:  Confido Legal
+   Location: REMOTE (US only)
+   Score:    58
+   Reasons:  + react; + docker; + api; + location fit; + salary ~$14583/mo; + fresh/undated; + remote
+   Apply:    https://careers.confidolegal.com/careers/sr-engineer
+
+----------------------------------------------------------------------
+
+130. Full Stack AI Engineer
+   Company:  AiMi
+   Location: Remote(Everywhere)
+   Score:    98
+   Reasons:  + react; + node; + api; + rest; + title match; + location fit; + salary ~$2000/mo; + fresh/undated; + remote
+   Apply:    https://join.com/companies/aimitechnology/16658631-agentic-a...
+
+----------------------------------------------------------------------
+
+131. L3 Software Engineer
+   Company:  Natera
+   Location: Full-Time
+   Score:    62
+   Reasons:  + react; + title match; + salary ~$3000/mo; + fresh/undated; + remote
+   Apply:    https://natera.com
+
+----------------------------------------------------------------------
+
+132. Full-Stack Developer
+   Company:  Apex Dental Partners
+   Location: Dallas, TX
+   Score:    95
+   Reasons:  + react; + automation; + scraping; + api; + title match; + salary ~$65000/mo; + fresh/undated; + remote
+   Apply:    https://news.ycombinator.com/item?id=49553487
+
+----------------------------------------------------------------------
+
+133. Senior Software Engineers — FDE, Full-Stack, Backend
+   Company:  Akkio
+   Location: US (Fully Remote)
+   Score:    97
+   Reasons:  + python; + node; + rest; + title match; + location fit; + salary ~$160000/mo; + fresh/undated; + remote; + equity
+   Apply:    https://www.akkio.com/jobs
+
+----------------------------------------------------------------------
+
+134. Multiple Engineering Roles
+   Company:  vCluster Labs
+   Location: REMOTE (US, Canada, Europe)
+   Score:    69
+   Reasons:  + python; + node; + location fit; + salary ~$140000/mo; + fresh/undated; + remote; + equity
+   Apply:    https://www.vcluster.com/careers?ashby_jid=516c8859-83be-453...
+
+----------------------------------------------------------------------
+
+135. Director of Corp Dev · Product Marketing Associate · MLOps Engineer
+   Company:  Lucia
+   Location: Remote (NYC / SEA / global overlap)
+   Score:    54
+   Reasons:  + python; + location fit; + salary ~$140000/mo; + fresh/undated; + remote; + equity
+   Apply:    https://news.ycombinator.com/item?id=49595476
+
+----------------------------------------------------------------------
+
+136. CTO Partner
+   Company:  BOSS-IQ
+   Location: REMOTE (worldwide)
+   Score:    59
+   Reasons:  + react; + api; + location fit; + salary ~$60000/mo; + fresh/undated; + remote; + contract; + equity
+   Apply:    https://boss-iq.com
+
+----------------------------------------------------------------------
+
+137. REMOTE ALMOST ANYWHERE IN THE WORLD
+   Company:  ALBERT
+   Location: Hiring principal and distinguished engineers to build net ne
+   Score:    59
+   Reasons:  + python; + react; + rest; + salary ~$750000/mo; + fresh/undated; + remote; + equity; + async
+   Apply:    https://news.ycombinator.com/item?id=49615435
+
+----------------------------------------------------------------------
+
+138. Senior/Staff Backend Engineer, Backend Platform
+   Company:  Remote (US) Close ( https://close.com )
+   Location: Full-time We're bootstrapped, profitable, and 130 people, al
+   Score:    115
+   Reasons:  + python; + flask; + fastapi; + sql; + postgresql; + docker; + git; + github; + api; + rest; + title match; + salary ~$130000/mo; + fresh/undated; + remote; + 4-day week
+   Apply:    https://close.com
+
+----------------------------------------------------------------------
+
+139. React js
+   Company:  Location: Lahore, Pakistan Remote: Yes Willing to relocate: Yes Technologies: Ruby on Rails
+   Location: Typescript
+   Score:    58
+   Reasons:  + laravel; + php; + react; + sql; + mysql; + fresh/undated; + remote
+   Apply:    https://drive.google.com/file/d/1Q6IQrVH3llpEqX0CRt_YzN08_Jf...
+
+----------------------------------------------------------------------
+
+140. Senior Member of Technical Staff
+   Company:  Anterior (Sequoia-backed, Series B)
+   Location: On-Site (New York, NY)
+   Score:    58
+   Reasons:  + python; + react; + git; + github; + salary ~$230000/mo; + fresh/undated; + equity
+   Apply:    https://www.youtube.com/watch?v=mav15aW9lLM
+
+----------------------------------------------------------------------
+
+141. Agent Builder
+   Company:  Catalyst·Wayfare AI
+   Location: Remote (US ET Overlap)
+   Score:    57
+   Reasons:  + python; + api; + location fit; + salary ~$3000/mo; + fresh/undated; + remote; + contract
+   Apply:    https://catalystwayfare.ai/careers
+
+----------------------------------------------------------------------
+
+142. Full-Stack Engineer
+   Company:  Obi9
+   Location: REMOTE (US time zones)
+   Score:    114
+   Reasons:  + python; + react; + node; + api; + title match; + location fit; + salary ~$9000/mo; + fresh/undated; + remote; + contract; + equity
+   Apply:    https://obi9.ai/jobs/full-stack-engineer
+
+----------------------------------------------------------------------
+
+143. Full-Stack Engineer (full-time, REMOTE) + PhD Researcher (part-time, REMOTE US)
+   Company:  Squoosh.AI
+   Location: https://squoosh.ai We build AI systems that simulate how peo
+   Score:    98
+   Reasons:  + python; + react; + automation; + git; + api; + title match; + salary ~$7500/mo; + fresh/undated; + remote
+   Apply:    https://squoosh.ai
+
+----------------------------------------------------------------------
+
+144. Senior Platform Engineer
+   Company:  Ours Privacy
+   Location: Remote (US)
+   Score:    55
+   Reasons:  + node; + ci/cd; + location fit; + salary ~$2000/mo; + fresh/undated; + remote
+   Apply:    https://oursprivacy.com/careers
+
+----------------------------------------------------------------------
+
+145. Robotics / Hardware Engineer
+   Company:  Lumen Labs
+   Location: San Francisco, CA
+   Score:    52
+   Reasons:  + python; + node; + salary ~$130000/mo; + fresh/undated; + equity
+   Apply:    https://lumenresearch.co
+
+----------------------------------------------------------------------
+
+146. Senior Full-Stack Developer (React/Node.js) — Foco Front-End - COM INGLÊS - Remoto
+   Company:  Capco
+   Location: Brazil
+   Score:    60
+   Reasons:  + react; + node; + title match; + fresh/undated
+   Apply:    https://jobgether.com/offer/6aaca289a819b4e027d3fe0c-senior-full-stack-developer-react-node.js----foco-front-end---com-ingles---remoto
+
+----------------------------------------------------------------------
+
+147. #1003 - Full Stack (React & AI) Developer
+   Company:  Venon Solutions
+   Location: United States
+   Score:    45
+   Reasons:  + react; + title match; + fresh/undated
+   Apply:    https://jobgether.com/offer/6aac8672a819b4e027d354fb-1003---full-stack-react-ai-developer
+
+----------------------------------------------------------------------
+
+148. 0917 - Sr Full Stack Developer (React and .NET C#)
+   Company:  Workforce Source
+   Location: Ukraine
+   Score:    45
+   Reasons:  + react; + title match; + fresh/undated
+   Apply:    https://jobgether.com/offer/6aac400ea819b4e027d266c0-0917---sr-full-stack-developer-react-and-.net-c
+
+----------------------------------------------------------------------
+
+149. [Job-31532] Senior Developer Fullstack (Angular/Node), Brasil
+   Company:  Ci&T
+   Location: Brazil
+   Score:    45
+   Reasons:  + node; + title match; + fresh/undated
+   Apply:    https://jobgether.com/offer/6aae4852a819b4e027db0082-job-31532-senior-developer-fullstack-angular-node-brasil
+
+----------------------------------------------------------------------
+
+150. [Job - 31638] Mid Level  FullStack Developer (.NET/React)
+   Company:  Ci&T
+   Location: Brazil
+   Score:    45
+   Reasons:  + react; + title match; + fresh/undated
+   Apply:    https://jobgether.com/offer/6aacf6cda819b4e027d56bda-job---31638-mid-level-fullstack-developer-.net-react
+
+----------------------------------------------------------------------
+
+151. Fullstack Developer Semi-Senior | React.js
+   Company:  redbee
+   Location: Argentina
+   Score:    45
+   Reasons:  + react; + title match; + fresh/undated
+   Apply:    https://jobgether.com/offer/6aacdac0a819b4e027d51c6e-fullstack-developer-semi-senior-react.js
+
+----------------------------------------------------------------------
+
+152. Senior/Staff Java Fullstack Developer (Java/Spring Boot/React) - Portugal Full Remote
+   Company:  HumanIT Digital Consulting
+   Location: Portugal
+   Score:    47
+   Reasons:  + react; + title match; + fresh/undated; + remote
+   Apply:    https://jobgether.com/offer/6aab2717a819b4e027cd86b0-senior-staff-java-fullstack-developer-java-spring-boot-react---portugal-full-remote
+
+----------------------------------------------------------------------
+
+153. Fullstack Developer (Python&React) Ssr./Sr.
+   Company:  Flux IT
+   Location: Argentina
+   Score:    60
+   Reasons:  + python; + react; + title match; + fresh/undated
+   Apply:    https://jobgether.com/offer/6aa99d2db563ea142eaf1ea3-fullstack-developer-python-react-ssr.-sr.
+
+----------------------------------------------------------------------
+
+154. Senior Fullstack Developer (Java & JavaScript)
+   Company:  Directio
+   Location: Poland
+   Score:    45
+   Reasons:  + javascript; + title match; + fresh/undated
+   Apply:    https://jobgether.com/offer/6aa91e82b563ea142eacf8bb-senior-fullstack-developer-java-javascript
+
+----------------------------------------------------------------------
+
+155. Middle Product-Minded Fullstack Developer (Node.js) - Legit
+   Company:  talentC
+   Location: Ukraine
+   Score:    48
+   Reasons:  + node; + git; + title match; + fresh/undated
+   Apply:    https://jobgether.com/offer/6aa05446b563ea142e883bec-middle-product-minded-fullstack-developer-node.js---legit
+
+----------------------------------------------------------------------
+
+156. Senior Java & React Developer
+   Company:  Lemon.io
+   Location: Europe, LATAM, APAC, the U.S., Canada
+   Score:    59
+   Reasons:  + react; + title match; + salary ~$202000/mo; + remote; + async
+   Apply:    https://www.workingnomads.com/job/go/1844110/
+
+----------------------------------------------------------------------
+
+157. Senior Platform Engineer
+   Company:  Proxify
+   Location: Time zone: CET (+/- 3 hours)
+   Score:    59
+   Reasons:  + python; + automation; + ci/cd; + git; + api; + rest; + salary ~$3000/mo; + remote
+   Apply:    https://www.workingnomads.com/job/go/1843253/
+
+----------------------------------------------------------------------
+
+158. Senior Cloud Engineer (Azure)
+   Company:  Proxify
+   Location: Time zone: CET (+/- 3 hours)
+   Score:    59
+   Reasons:  + python; + automation; + ci/cd; + git; + github; + rest; + salary ~$3000/mo; + remote
+   Apply:    https://www.workingnomads.com/job/go/1843252/
+
+----------------------------------------------------------------------
+
+159. Senior Backend Developer (Python)
+   Company:  Proxify
+   Location: Time zone: CET (+/- 3 hours)
+   Score:    72
+   Reasons:  + python; + django; + sql; + postgresql; + docker; + ci/cd; + rest; + title match; + remote
+   Apply:    https://www.workingnomads.com/job/go/1843250/
+
+----------------------------------------------------------------------
+
+160. Senior Backend Developer (Node.js / Nest.js)
+   Company:  Proxify
+   Location: Time zone: CET (+/- 3 hours)
+   Score:    96
+   Reasons:  + javascript; + node; + sql; + mysql; + postgresql; + docker; + ci/cd; + git; + api; + rest; + title match; + salary ~$3000/mo; + remote
+   Apply:    https://www.workingnomads.com/job/go/1843248/
+
+----------------------------------------------------------------------
+
+161. Senior Python Developer (Fullstack, BE-Heavy)
+   Company:  Proxify
+   Location: CET (+/- 3 hours)
+   Score:    122
+   Reasons:  + python; + django; + fastapi; + react; + sql; + postgresql; + docker; + ci/cd; + api; + rest; + title match; + salary ~$3000/mo; + remote; + async
+   Apply:    https://www.workingnomads.com/job/go/1843246/
+
+   ── Cover Letter ──
+   Subject: Application — Senior Python Developer (Fullstack, BE-Heavy) at Proxify
+   
+   Dear Hiring Manager,
+   
+   I came across the Senior Python Developer (Fullstack, BE-Heavy) role at Proxify and it aligns closely with my work in api, ci/cd, django.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+162. Senior Adobe Commerce Developer (Magento)
+   Company:  Proxify
+   Location: Time zone: CET (+/- 3 hours)
+   Score:    71
+   Reasons:  + php; + react; + sql; + mysql; + docker; + ci/cd; + git; + github; + api; + rest; + salary ~$3000/mo; + remote
+   Apply:    https://www.workingnomads.com/job/go/1843239/
+
+----------------------------------------------------------------------
+
+163. Senior Python Developer (Flask)
+   Company:  Proxify
+   Location: CET (+/- 3 hours)
+   Score:    131
+   Reasons:  + python; + flask; + fastapi; + react; + sql; + mysql; + postgresql; + docker; + ci/cd; + git; + github; + api; + rest; + title match; + salary ~$3000/mo; + remote; + async
+   Apply:    https://www.workingnomads.com/job/go/1843237/
+
+   ── Cover Letter ──
+   Subject: Application — Senior Python Developer (Flask) at Proxify
+   
+   Dear Hiring Manager,
+   
+   I came across the Senior Python Developer (Flask) role at Proxify and it aligns closely with my work in api, ci/cd, docker.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+164. Senior Python Developer (FastAPI)
+   Company:  Proxify
+   Location: CET (+/- 3 hours)
+   Score:    98
+   Reasons:  + python; + fastapi; + sql; + postgresql; + docker; + ci/cd; + git; + github; + api; + rest; + title match; + salary ~$3000/mo; + remote; + async
+   Apply:    https://www.workingnomads.com/job/go/1843235/
+
+----------------------------------------------------------------------
+
+165. Senior Fullstack Developer (React.js / Node.js)
+   Company:  Proxify
+   Location: Time zone: CET (+/- 3 hours)
+   Score:    63
+   Reasons:  + react; + node; + sql; + rest; + title match; + remote
+   Apply:    https://www.workingnomads.com/job/go/1843234/
+
+----------------------------------------------------------------------
+
+166. Senior DevOps Engineer (Azure)
+   Company:  Proxify
+   Location: Time zone: CET (+/- 3 hours)
+   Score:    47
+   Reasons:  + automation; + docker; + ci/cd; + git; + github; + rest; + salary ~$3000/mo; + remote
+   Apply:    https://www.workingnomads.com/job/go/1843227/
+
+----------------------------------------------------------------------
+
+167. Senior .NET Full-stack Developer
+   Company:  Lemon.io
+   Location: Europe, LATAM, APAC, the U.S., Canada
+   Score:    59
+   Reasons:  + react; + title match; + salary ~$202000/mo; + remote; + async
+   Apply:    https://www.workingnomads.com/job/go/1842849/
+
+----------------------------------------------------------------------
+
+168. Senior React.js Full-stack Developer
+   Company:  Lemon.io
+   Location: Europe, LATAM, APAC, the U.S., Canada
+   Score:    89
+   Reasons:  + python; + react; + node; + title match; + salary ~$202000/mo; + remote; + async
+   Apply:    https://www.workingnomads.com/job/go/1834974/
+
+----------------------------------------------------------------------
+
+169. Software engineer
+   Company:  Sticker Mule
+   Location: Global
+   Score:    57
+   Reasons:  + react; + title match; + location fit; + remote
+   Apply:    https://www.workingnomads.com/job/go/1833624/
+
+----------------------------------------------------------------------
+
+170. Senior Solutions Engineer
+   Company:  Lemon.io
+   Location: Europe, North America, Latin America, APAC
+   Score:    92
+   Reasons:  + python; + php; + react; + node; + automation; + salary ~$202000/mo; + remote
+   Apply:    https://www.workingnomads.com/job/go/1826325/
+
+----------------------------------------------------------------------

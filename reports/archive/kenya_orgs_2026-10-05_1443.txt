@@ -1,0 +1,573 @@
+🇰🇪 Local Kenya Organization Report — 16 orgs, 19 roles
+Region: Nairobi, Kenya
+Generated: 2026-10-05 14:43:50
+========================================================================
+
+🏢 Acon Medical Supplies (Kenya)
+   Location: Nairobi
+   Roles (1):
+     • Acon Medical Supplies (Kenya)  — score 60
+       Apply: http://www.aconmedical.com/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Acon Medical Supplies (Kenya)
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Acon Medical Supplies (Kenya) operates in medical supply store. Its main
+   operational pain point is stockouts on critical items and slow-moving inventory.
+   
+   2. Data to capture
+   - Weekly consumption by SKU and by client facility
+   - Supplier lead times and price history
+   - Stock-on-hand vs. reorder point per item
+   
+   3. BI improvements
+   - Reorder-alert dashboard — flags SKUs below reorder point; used by the procurement officer; drives daily purchase orders
+   - Client-consumption report — shows each clinic's monthly usage trend; drives quarterly contract renewal talks
+   - Supplier price tracker — flags >5% weekly increases
+   
+   4. Quick win (2 weeks)
+   Reorder-alert dashboard cutting stockouts by 40%.
+   
+   5. How I can help
+   I build scraping, dashboards, and ETL pipelines — and can deliver
+   the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Amex Auto Parts
+   Location: Nairobi
+   Roles (1):
+     • Amex Auto Parts  — score 60
+       Apply: https://amexautoparts.com/?srsltid=AU7gw4X0uqPScqSea996UbW_cTc-k1Ux7M5YjHomvAphd7D4tbWe43po
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Amex Auto Parts
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Amex Auto Parts operates in auto parts store. Its main
+   operational pain point is stockouts on fast-movers and dead stock.
+   
+   2. Data to capture
+   - Sales by part number and vehicle model
+   - Stock-on-hand vs. reorder point
+   - Dead-stock ageing
+   
+   3. BI improvements
+   - Fast-mover dashboard — top 100 SKUs by velocity
+   - Dead-stock report — no sales in 90 days
+   - Reorder-alert system for fast-movers
+   
+   4. Quick win (2 weeks)
+   Fast-mover dashboard cutting stockouts by 25%.
+   
+   5. How I can help
+   I build scraping, dashboards, and ETL pipelines — and can deliver
+   the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Autobarn Kenya
+   Location: Nairobi
+   Roles (1):
+     • Autobarn Kenya  — score 60
+       Apply: https://autobarn.co.ke/car-wash-detailing?srsltid=AU7gw4Vj0gdrep0kNT6XD8b0dL98DCrFhtLOC8Hy_HCymgn_rTIPU9WA
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Autobarn Kenya
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Autobarn Kenya operates in car wash. Its main
+   operational pain point is throughput at peak hours and repeat-customer tracking.
+   
+   2. Data to capture
+   - Vehicles washed per hour per bay
+   - Revenue by service type
+   - Repeat-customer frequency
+   
+   3. BI improvements
+   - Throughput dashboard — vehicles per hour per bay
+   - Service-mix report — revenue by wash type
+   - Loyalty dashboard — repeat customer rate
+   
+   4. Quick win (2 weeks)
+   Throughput dashboard cutting peak-hour waits by 30%.
+   
+   5. How I can help
+   I build scraping, dashboards, and ETL pipelines — and can deliver
+   the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Carrefour Online Kenya
+   Location: Nairobi
+   Roles (2):
+     • Carrefour Online Kenya  — score 60
+       Apply: https://www.carrefour.ke/mafken/en?srsltid=AU7gw4UD6kzntZsbD3cvtwfVnMjbJ9n-iTv_XW_TYqpd_0ZL-lTJ9SOf
+       Why:   + local organization lead (BI pitch target)
+     • Carrefour Online Kenya  — score 60
+       Apply: https://www.carrefour.ke/mafken/en?srsltid=AU7gw4Xs3MjsHSg0DlfgRThNcvWZamsIll7P3FkwKhGuR3CUSMAaUVOE
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Carrefour Online Kenya
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Carrefour Online Kenya operates in supermarket. Its main
+   operational pain point is shrinkage and reorder timing.
+   
+   2. Data to capture
+   - Per-till basket size and item mix
+   - Stock-on-hand vs. reorder point per SKU
+   - Footfall by hour vs. revenue by hour
+   
+   3. BI improvements
+   - Daily reorder-alert dashboard — flags SKUs below reorder point; used by the procurement lead; drives morning purchase orders
+   - Shrinkage heatmap — shows loss by aisle and shift; used by the store manager; drives weekly loss-prevention focus
+   - Basket-affinity report — shows what sells together; drives shelf layout and cross-promotion
+   
+   4. Quick win (2 weeks)
+   Reorder-alert dashboard cutting stockouts by 30%.
+   
+   5. How I can help
+   I build scraping, dashboards, and ETL pipelines — and can deliver
+   the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Clinocare
+   Location: Nairobi
+   Roles (1):
+     • Clinocare  — score 60
+       Apply: https://clinocare.co.ke/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Clinocare
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Clinocare operates in medical supply store. Its main
+   operational pain point is stockouts on critical items and slow-moving inventory.
+   
+   2. Data to capture
+   - Weekly consumption by SKU and by client facility
+   - Supplier lead times and price history
+   - Stock-on-hand vs. reorder point per item
+   
+   3. BI improvements
+   - Reorder-alert dashboard — flags SKUs below reorder point; used by the procurement officer; drives daily purchase orders
+   - Client-consumption report — shows each clinic's monthly usage trend; drives quarterly contract renewal talks
+   - Supplier price tracker — flags >5% weekly increases
+   
+   4. Quick win (2 weeks)
+   Reorder-alert dashboard cutting stockouts by 40%.
+   
+   5. How I can help
+   I build scraping, dashboards, and ETL pipelines — and can deliver
+   the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Crown Healthcare
+   Location: Nairobi
+   Roles (1):
+     • Crown Healthcare  — score 60
+       Apply: https://www.crownkenya.com/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Crown Healthcare
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Crown Healthcare operates in medical supply store. Its main
+   operational pain point is stockouts on critical items and slow-moving inventory.
+   
+   2. Data to capture
+   - Weekly consumption by SKU and by client facility
+   - Supplier lead times and price history
+   - Stock-on-hand vs. reorder point per item
+   
+   3. BI improvements
+   - Reorder-alert dashboard — flags SKUs below reorder point; used by the procurement officer; drives daily purchase orders
+   - Client-consumption report — shows each clinic's monthly usage trend; drives quarterly contract renewal talks
+   - Supplier price tracker — flags >5% weekly increases
+   
+   4. Quick win (2 weeks)
+   Reorder-alert dashboard cutting stockouts by 40%.
+   
+   5. How I can help
+   I build scraping, dashboards, and ETL pipelines — and can deliver
+   the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Greenspoon
+   Location: Nairobi
+   Roles (1):
+     • Greenspoon  — score 60
+       Apply: https://greenspoon.co.ke/?srsltid=AU7gw4UY6KfxlOYUlnZAvk8tj6zAOZUVDz6iQnhqNb30TWSPmrexQFCs
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Greenspoon
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Greenspoon operates in grocery store. Its main
+   operational pain point is perishable waste and reorder timing.
+   
+   2. Data to capture
+   - Daily sales by SKU and shelf location
+   - Waste log by item and reason (expiry, damage)
+   - Supplier delivery reliability
+   
+   3. BI improvements
+   - Waste-tracking dashboard — logs daily spoilage by item; used by the shop manager; drives markdown timing
+   - Reorder-alert dashboard for perishables and staples
+   - Supplier scorecard — rates delivery punctuality and fill-rate; drives negotiation
+   
+   4. Quick win (2 weeks)
+   Waste-tracking dashboard cutting spoilage by 20%.
+   
+   5. How I can help
+   I build scraping, dashboards, and ETL pipelines — and can deliver
+   the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Medical Equipment Supplies Kenya
+   Location: Nairobi
+   Roles (1):
+     • Medical Equipment Supplies Kenya  — score 60
+       Apply: https://www.medicalequipmentsupplieskenya.com/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Medical Equipment Supplies Kenya
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Medical Equipment Supplies Kenya operates in medical supply store. Its main
+   operational pain point is stockouts on critical items and slow-moving inventory.
+   
+   2. Data to capture
+   - Weekly consumption by SKU and by client facility
+   - Supplier lead times and price history
+   - Stock-on-hand vs. reorder point per item
+   
+   3. BI improvements
+   - Reorder-alert dashboard — flags SKUs below reorder point; used by the procurement officer; drives daily purchase orders
+   - Client-consumption report — shows each clinic's monthly usage trend; drives quarterly contract renewal talks
+   - Supplier price tracker — flags >5% weekly increases
+   
+   4. Quick win (2 weeks)
+   Reorder-alert dashboard cutting stockouts by 40%.
+   
+   5. How I can help
+   I build scraping, dashboards, and ETL pipelines — and can deliver
+   the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Medocal Limited
+   Location: Nairobi
+   Roles (1):
+     • Medocal Limited  — score 60
+       Apply: https://medocal.co.ke/product-category/medical-equipments/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Medocal Limited
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Medocal Limited operates in medical supply store. Its main
+   operational pain point is stockouts on critical items and slow-moving inventory.
+   
+   2. Data to capture
+   - Weekly consumption by SKU and by client facility
+   - Supplier lead times and price history
+   - Stock-on-hand vs. reorder point per item
+   
+   3. BI improvements
+   - Reorder-alert dashboard — flags SKUs below reorder point; used by the procurement officer; drives daily purchase orders
+   - Client-consumption report — shows each clinic's monthly usage trend; drives quarterly contract renewal talks
+   - Supplier price tracker — flags >5% weekly increases
+   
+   4. Quick win (2 weeks)
+   Reorder-alert dashboard cutting stockouts by 40%.
+   
+   5. How I can help
+   I build scraping, dashboards, and ETL pipelines — and can deliver
+   the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 MidKen Supplies
+   Location: Nairobi
+   Roles (1):
+     • MidKen Supplies  — score 60
+       Apply: https://midkensupplies.co.ke/shop/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — MidKen Supplies
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   MidKen Supplies operates in medical supply store. Its main
+   operational pain point is stockouts on critical items and slow-moving inventory.
+   
+   2. Data to capture
+   - Weekly consumption by SKU and by client facility
+   - Supplier lead times and price history
+   - Stock-on-hand vs. reorder point per item
+   
+   3. BI improvements
+   - Reorder-alert dashboard — flags SKUs below reorder point; used by the procurement officer; drives daily purchase orders
+   - Client-consumption report — shows each clinic's monthly usage trend; drives quarterly contract renewal talks
+   - Supplier price tracker — flags >5% weekly increases
+   
+   4. Quick win (2 weeks)
+   Reorder-alert dashboard cutting stockouts by 40%.
+   
+   5. How I can help
+   I build scraping, dashboards, and ETL pipelines — and can deliver
+   the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Naivas Online
+   Location: Nairobi
+   Roles (2):
+     • Naivas Online  — score 60
+       Apply: https://www.naivas.online/?srsltid=AU7gw4X5K7yTNZq8IDEnp9wCc7Xer5xUc9XZ21GqL_cF2hsqNamqYM1c
+       Why:   + local organization lead (BI pitch target)
+     • Naivas Online  — score 60
+       Apply: https://www.naivas.online/?srsltid=AU7gw4XJEy3GH7IzvAH-K6X8cmHRaZO9Gce_m-zFZxQPO7gUf_O0XAgP
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Naivas Online
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Naivas Online operates in supermarket. Its main
+   operational pain point is shrinkage and reorder timing.
+   
+   2. Data to capture
+   - Per-till basket size and item mix
+   - Stock-on-hand vs. reorder point per SKU
+   - Footfall by hour vs. revenue by hour
+   
+   3. BI improvements
+   - Daily reorder-alert dashboard — flags SKUs below reorder point; used by the procurement lead; drives morning purchase orders
+   - Shrinkage heatmap — shows loss by aisle and shift; used by the store manager; drives weekly loss-prevention focus
+   - Basket-affinity report — shows what sells together; drives shelf layout and cross-promotion
+   
+   4. Quick win (2 weeks)
+   Reorder-alert dashboard cutting stockouts by 30%.
+   
+   5. How I can help
+   I build scraping, dashboards, and ETL pipelines — and can deliver
+   the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Partspoa
+   Location: Nairobi
+   Roles (1):
+     • Partspoa  — score 60
+       Apply: https://www.partspoa.com/?srsltid=AU7gw4VuIqr-5dUrtO6I9mQ0tKlA5YUdIX0joVEbOB0Z58tc113NkhdR
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Partspoa
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Partspoa operates in auto parts store. Its main
+   operational pain point is stockouts on fast-movers and dead stock.
+   
+   2. Data to capture
+   - Sales by part number and vehicle model
+   - Stock-on-hand vs. reorder point
+   - Dead-stock ageing
+   
+   3. BI improvements
+   - Fast-mover dashboard — top 100 SKUs by velocity
+   - Dead-stock report — no sales in 90 days
+   - Reorder-alert system for fast-movers
+   
+   4. Quick win (2 weeks)
+   Fast-mover dashboard cutting stockouts by 25%.
+   
+   5. How I can help
+   I build scraping, dashboards, and ETL pipelines — and can deliver
+   the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Quickmart
+   Location: Nairobi
+   Roles (2):
+     • Quickmart  — score 60
+       Apply: https://www.quickmart.co.ke/?srsltid=AU7gw4UShQZi6-_wYJIhuIZ4qSGdRyZAUZdbs0BhgArZ2O4ln7rET4El
+       Why:   + local organization lead (BI pitch target)
+     • Quickmart  — score 60
+       Apply: https://www.quickmart.co.ke/?srsltid=AU7gw4WZaNFbVqUMc4n9GR9Hx0QGKqdVrAvNmbl1aVtpn7lJHCQXhZh6
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Quickmart
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Quickmart operates in supermarket. Its main
+   operational pain point is shrinkage and reorder timing.
+   
+   2. Data to capture
+   - Per-till basket size and item mix
+   - Stock-on-hand vs. reorder point per SKU
+   - Footfall by hour vs. revenue by hour
+   
+   3. BI improvements
+   - Daily reorder-alert dashboard — flags SKUs below reorder point; used by the procurement lead; drives morning purchase orders
+   - Shrinkage heatmap — shows loss by aisle and shift; used by the store manager; drives weekly loss-prevention focus
+   - Basket-affinity report — shows what sells together; drives shelf layout and cross-promotion
+   
+   4. Quick win (2 weeks)
+   Reorder-alert dashboard cutting stockouts by 30%.
+   
+   5. How I can help
+   I build scraping, dashboards, and ETL pipelines — and can deliver
+   the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Tessian Medical Supplies Ltd
+   Location: Nairobi
+   Roles (1):
+     • Tessian Medical Supplies Ltd  — score 60
+       Apply: https://tessianmedical.com/?srsltid=AU7gw4X-fIQtnHF9-5QarjwtYZILBVaDu6roSlovuduQxx4pqTy2tsJa
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Tessian Medical Supplies Ltd
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Tessian Medical Supplies Ltd operates in medical supply store. Its main
+   operational pain point is stockouts on critical items and slow-moving inventory.
+   
+   2. Data to capture
+   - Weekly consumption by SKU and by client facility
+   - Supplier lead times and price history
+   - Stock-on-hand vs. reorder point per item
+   
+   3. BI improvements
+   - Reorder-alert dashboard — flags SKUs below reorder point; used by the procurement officer; drives daily purchase orders
+   - Client-consumption report — shows each clinic's monthly usage trend; drives quarterly contract renewal talks
+   - Supplier price tracker — flags >5% weekly increases
+   
+   4. Quick win (2 weeks)
+   Reorder-alert dashboard cutting stockouts by 40%.
+   
+   5. How I can help
+   I build scraping, dashboards, and ETL pipelines — and can deliver
+   the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Transafrica Medical Supplies
+   Location: Nairobi
+   Roles (1):
+     • Transafrica Medical Supplies  — score 60
+       Apply: https://transafricamedical.co.ke/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Transafrica Medical Supplies
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Transafrica Medical Supplies operates in medical supply store. Its main
+   operational pain point is stockouts on critical items and slow-moving inventory.
+   
+   2. Data to capture
+   - Weekly consumption by SKU and by client facility
+   - Supplier lead times and price history
+   - Stock-on-hand vs. reorder point per item
+   
+   3. BI improvements
+   - Reorder-alert dashboard — flags SKUs below reorder point; used by the procurement officer; drives daily purchase orders
+   - Client-consumption report — shows each clinic's monthly usage trend; drives quarterly contract renewal talks
+   - Supplier price tracker — flags >5% weekly increases
+   
+   4. Quick win (2 weeks)
+   Reorder-alert dashboard cutting stockouts by 40%.
+   
+   5. How I can help
+   I build scraping, dashboards, and ETL pipelines — and can deliver
+   the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Water Bottlers Association of Kenya
+   Location: Nairobi
+   Roles (1):
+     • Water Bottlers Association of Kenya  — score 60
+       Apply: https://wbak.co.ke/membership-list/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Water Bottlers Association of Kenya
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Water Bottlers Association of Kenya operates in water supplier. Its main
+   operational pain point is route density and tanker-return tracking.
+   
+   2. Data to capture
+   - Deliveries per tanker per day
+   - Distance and fuel per route
+   - Customer churn and prepaid balances
+   
+   3. BI improvements
+   - Route-density dashboard — stops per km per route
+   - Tanker-return tracker — dispatch to return in hours
+   - Churn-risk dashboard — customers with falling order frequency
+   
+   4. Quick win (2 weeks)
+   Route-density dashboard raising stops/day by 15%.
+   
+   5. How I can help
+   I build scraping, dashboards, and ETL pipelines — and can deliver
+   the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────

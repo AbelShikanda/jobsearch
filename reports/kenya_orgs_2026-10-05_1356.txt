@@ -1,0 +1,2387 @@
+🇰🇪 Local Kenya Organization Report — 64 orgs, 67 roles
+Region: Nairobi, Kenya
+Generated: 2026-10-05 13:56:38
+========================================================================
+
+🏢 Acceler Global Logistics
+   Location: Nairobi
+   Roles (1):
+     • Acceler Global Logistics  — score 60
+       Apply: https://www.acceler.co.ke/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Acceler Global Logistics
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Acceler Global Logistics is a Kenyan organization currently hiring for Acceler Global Logistics. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 AutoXpress Kenya
+   Location: Nairobi
+   Roles (1):
+     • AutoXpress Kenya  — score 60
+       Apply: https://auto-xpress.co.ke/estore/tyres
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — AutoXpress Kenya
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   AutoXpress Kenya is a Kenyan organization currently hiring for AutoXpress Kenya. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Autobarn Kenya
+   Location: Nairobi
+   Roles (1):
+     • Autobarn Kenya  — score 60
+       Apply: https://autobarn.co.ke/car-wash-detailing?srsltid=AU7gw4XGH80j-vzjkGyUCm32Xhssb3sK4fw63w4rScDjNpmGRW2pZ2zz
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Autobarn Kenya
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Autobarn Kenya is a Kenyan organization currently hiring for Autobarn Kenya. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 BFGoodrich Africa
+   Location: Nairobi
+   Roles (1):
+     • BFGoodrich Africa  — score 60
+       Apply: https://africa.bfgoodrich.com/auto/dealer-locator/nairobi
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — BFGoodrich Africa
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   BFGoodrich Africa is a Kenyan organization currently hiring for BFGoodrich Africa. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Bps Kenya
+   Location: Nairobi
+   Roles (1):
+     • Bps Kenya  — score 60
+       Apply: https://bpskenya.co.ke/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Bps Kenya
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Bps Kenya is a Kenyan organization currently hiring for Bps Kenya. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 CP Solar
+   Location: Nairobi
+   Roles (1):
+     • CP Solar  — score 60
+       Apply: https://www.cpsolar.co.ke/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — CP Solar
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   CP Solar is a Kenyan organization currently hiring for CP Solar. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Carrefour Online Kenya
+   Location: Nairobi
+   Roles (2):
+     • Carrefour Online Kenya  — score 60
+       Apply: https://www.carrefour.ke/mafken/en?srsltid=AU7gw4U79hB_dPmjmCs0ojC2e7LxMlsh1SNW7FCqtUVQAuQ7aoC_ucnE
+       Why:   + local organization lead (BI pitch target)
+     • Carrefour Online Kenya  — score 60
+       Apply: https://www.carrefour.ke/mafken/en?srsltid=AU7gw4Xl10TDS5K13ProzzHyxWzUjkYfWFk0cG4CW1zvn-CipoHQ07Ro
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Carrefour Online Kenya
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Carrefour Online Kenya is a Kenyan organization currently hiring for Carrefour Online Kenya. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Clintec Medical Imaging Services
+   Location: Nairobi
+   Roles (1):
+     • Clintec Medical Imaging Services  — score 60
+       Apply: https://www.clintec.co.ke/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Clintec Medical Imaging Services
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Clintec Medical Imaging Services is a Kenyan organization currently hiring for Clintec Medical Imaging Services. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Criss Cross Ltd
+   Location: Nairobi
+   Roles (1):
+     • Criss Cross Ltd  — score 60
+       Apply: https://www.crisscross.co.ke/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Criss Cross Ltd
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Criss Cross Ltd is a Kenyan organization currently hiring for Criss Cross Ltd. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Deans Dental Clinic
+   Location: Nairobi
+   Roles (1):
+     • Deans Dental Clinic  — score 60
+       Apply: https://deans.co.ke/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Deans Dental Clinic
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Deans Dental Clinic is a Kenyan organization currently hiring for Deans Dental Clinic. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Dental Care Kenya
+   Location: Nairobi
+   Roles (1):
+     • Dental Care Kenya  — score 60
+       Apply: https://dentalcare.co.ke/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Dental Care Kenya
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Dental Care Kenya is a Kenyan organization currently hiring for Dental Care Kenya. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Fargo Courier
+   Location: Nairobi
+   Roles (1):
+     • Fargo Courier  — score 60
+       Apply: https://www.fargocourier.co.ke/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Fargo Courier
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Fargo Courier is a Kenyan organization currently hiring for Fargo Courier. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Garnet Pharmacy
+   Location: Nairobi
+   Roles (1):
+     • Garnet Pharmacy  — score 60
+       Apply: https://garnetpharmacy.co.ke/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Garnet Pharmacy
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Garnet Pharmacy is a Kenyan organization currently hiring for Garnet Pharmacy. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Goodlife Pharmacy Kenya
+   Location: Nairobi
+   Roles (1):
+     • Goodlife Pharmacy Kenya  — score 60
+       Apply: https://www.goodlife.co.ke/?srsltid=AU7gw4VTutEiUumhfUTPXN9D1xegEfEaHl_9S_PNdzYEYVp-u04lAQG6
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Goodlife Pharmacy Kenya
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Goodlife Pharmacy Kenya is a Kenyan organization currently hiring for Goodlife Pharmacy Kenya. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Greenspoon
+   Location: Nairobi
+   Roles (2):
+     • Greenspoon  — score 60
+       Apply: https://greenspoon.co.ke/?srsltid=AU7gw4VXuWCY642i1ICxVALOMMqmnPMEm7SHSKZxoqYM9S6jkMrpHJvy
+       Why:   + local organization lead (BI pitch target)
+     • Greenspoon  — score 60
+       Apply: https://greenspoon.co.ke/?srsltid=AU7gw4WQXqlm3onhwkJ8qrY4J0U4hzys3yKFzdjHM7L5fKglCOwXubRj
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Greenspoon
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Greenspoon is a Kenyan organization currently hiring for Greenspoon. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Hippos Auto Spa
+   Location: Nairobi
+   Roles (1):
+     • Hippos Auto Spa  — score 60
+       Apply: https://www.hipposautospa.co.ke/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Hippos Auto Spa
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Hippos Auto Spa is a Kenyan organization currently hiring for Hippos Auto Spa. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Ishano Distributors
+   Location: Nairobi
+   Roles (1):
+     • Ishano Distributors  — score 60
+       Apply: https://ishano.com/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Ishano Distributors
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Ishano Distributors is a Kenyan organization currently hiring for Ishano Distributors. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Jaff's Optical House
+   Location: Nairobi
+   Roles (1):
+     • Jaff's Optical House  — score 60
+       Apply: https://jaffs-optical-house.com/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Jaff's Optical House
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Jaff's Optical House is a Kenyan organization currently hiring for Jaff's Optical House. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Jesse Kay Hospital
+   Location: Nairobi
+   Roles (1):
+     • Jesse Kay Hospital  — score 60
+       Apply: https://jessekayhospital.com/departments/pharmacy-services/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Jesse Kay Hospital
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Jesse Kay Hospital is a Kenyan organization currently hiring for Jesse Kay Hospital. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 KC Global Procurement
+   Location: Nairobi
+   Roles (1):
+     • KC Global Procurement  — score 60
+       Apply: https://www.kcglobalprocurement.com/logistics/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — KC Global Procurement
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   KC Global Procurement is a Kenyan organization currently hiring for KC Global Procurement. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 KK Opticians
+   Location: Nairobi
+   Roles (1):
+     • KK Opticians  — score 60
+       Apply: https://kkopticals.co.ke/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — KK Opticians
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   KK Opticians is a Kenyan organization currently hiring for KK Opticians. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Kentex Cargo
+   Location: Nairobi
+   Roles (1):
+     • Kentex Cargo  — score 60
+       Apply: https://kentexcargo.com/guides/shipping-companies-in-kenya
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Kentex Cargo
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Kentex Cargo is a Kenyan organization currently hiring for Kentex Cargo. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Kingsway Tyres
+   Location: Nairobi
+   Roles (1):
+     • Kingsway Tyres  — score 60
+       Apply: https://www.kingswaytyres.com/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Kingsway Tyres
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Kingsway Tyres is a Kenyan organization currently hiring for Kingsway Tyres. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Luton Hospital
+   Location: Nairobi
+   Roles (1):
+     • Luton Hospital  — score 60
+       Apply: https://lutonhospital.co.ke/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Luton Hospital
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Luton Hospital is a Kenyan organization currently hiring for Luton Hospital. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Meditest Diagnostic
+   Location: Nairobi
+   Roles (1):
+     • Meditest Diagnostic  — score 60
+       Apply: https://www.meditestdiagnostic.com/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Meditest Diagnostic
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Meditest Diagnostic is a Kenyan organization currently hiring for Meditest Diagnostic. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Medjet Hospital Supplies
+   Location: Nairobi
+   Roles (1):
+     • Medjet Hospital Supplies  — score 60
+       Apply: https://mjhospitalsupplies.co.ke/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Medjet Hospital Supplies
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Medjet Hospital Supplies is a Kenyan organization currently hiring for Medjet Hospital Supplies. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Medpages
+   Location: Nairobi
+   Roles (1):
+     • Medpages  — score 60
+       Apply: https://www.medpages.info/sf/index.php?page=listing&servicecode=64&suburbcode=12994
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Medpages
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Medpages is a Kenyan organization currently hiring for Medpages. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Michelin Africa
+   Location: Nairobi
+   Roles (1):
+     • Michelin Africa  — score 60
+       Apply: https://africa.michelin.com/en/auto/dealer-locator/nairobi
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Michelin Africa
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Michelin Africa is a Kenyan organization currently hiring for Michelin Africa. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 MidKen Supplies
+   Location: Nairobi
+   Roles (1):
+     • MidKen Supplies  — score 60
+       Apply: https://midkensupplies.co.ke/shop/?filter_brands=incepta
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — MidKen Supplies
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   MidKen Supplies is a Kenyan organization currently hiring for MidKen Supplies. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Mitchell Cotts
+   Location: Nairobi
+   Roles (1):
+     • Mitchell Cotts  — score 60
+       Apply: https://www.mitchellcottsgroup.com/kenya/services/clearing-and-forwarding/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Mitchell Cotts
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Mitchell Cotts is a Kenyan organization currently hiring for Mitchell Cotts. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Nairobi Water Company
+   Location: Nairobi
+   Roles (1):
+     • Nairobi Water Company  — score 60
+       Apply: https://nairobiwater.co.ke/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Nairobi Water Company
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Nairobi Water Company is a Kenyan organization currently hiring for Nairobi Water Company. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Naivas Online
+   Location: Nairobi
+   Roles (2):
+     • Naivas Online  — score 60
+       Apply: https://www.naivas.online/?srsltid=AU7gw4W86doZtPI1-0aKak1CrnzFKWnKrucBiwnX8WvwVV8qc3IfcCQ_
+       Why:   + local organization lead (BI pitch target)
+     • Naivas Online  — score 60
+       Apply: https://www.naivas.online/?srsltid=AU7gw4UQPElz16g9pcSeIl82969d6JAIgcu_apV1Q5lG9YNIPfKq78FW
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Naivas Online
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Naivas Online is a Kenyan organization currently hiring for Naivas Online. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 National Oil Corporation of Kenya
+   Location: Nairobi
+   Roles (1):
+     • National Oil Corporation of Kenya  — score 60
+       Apply: https://nationaloil.co.ke/website_11ab3dee/fuel-business/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — National Oil Corporation of Kenya
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   National Oil Corporation of Kenya is a Kenyan organization currently hiring for National Oil Corporation of Kenya. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Omidrop Africa
+   Location: Nairobi
+   Roles (1):
+     • Omidrop Africa  — score 60
+       Apply: https://omidrop.africa/bulk-clean-water-delivery
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Omidrop Africa
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Omidrop Africa is a Kenyan organization currently hiring for Omidrop Africa. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 OneStop Wholesalers
+   Location: Nairobi
+   Roles (1):
+     • OneStop Wholesalers  — score 60
+       Apply: https://onestopwholesalers.co.ke/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — OneStop Wholesalers
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   OneStop Wholesalers is a Kenyan organization currently hiring for OneStop Wholesalers. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Optica Kenya
+   Location: Nairobi
+   Roles (1):
+     • Optica Kenya  — score 60
+       Apply: https://optica.africa/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Optica Kenya
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Optica Kenya is a Kenyan organization currently hiring for Optica Kenya. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Peak Solar Solutions
+   Location: Nairobi
+   Roles (1):
+     • Peak Solar Solutions  — score 60
+       Apply: https://www.peaksolar.co.ke/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Peak Solar Solutions
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Peak Solar Solutions is a Kenyan organization currently hiring for Peak Solar Solutions. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Pickup Mtaani
+   Location: Nairobi
+   Roles (1):
+     • Pickup Mtaani  — score 60
+       Apply: https://new.pickupmtaani.com/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Pickup Mtaani
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Pickup Mtaani is a Kenyan organization currently hiring for Pickup Mtaani. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Pinterest · pietercronje923
+   Location: Nairobi
+   Roles (1):
+     • Pinterest · pietercronje923  — score 60
+       Apply: https://se.pinterest.com/pin/secure-petrol-station-down-town-nairobi-kenya--555490935307110685/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Pinterest · pietercronje923
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Pinterest · pietercronje923 is a Kenyan organization currently hiring for Pinterest · pietercronje923. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Plexus Energy Limited
+   Location: Nairobi
+   Roles (1):
+     • Plexus Energy Limited  — score 60
+       Apply: https://www.plexus-energy.co.ke/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Plexus Energy Limited
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Plexus Energy Limited is a Kenyan organization currently hiring for Plexus Energy Limited. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Postal Corporation of Kenya
+   Location: Nairobi
+   Roles (1):
+     • Postal Corporation of Kenya  — score 60
+       Apply: https://posta.co.ke/services/courier-services/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Postal Corporation of Kenya
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Postal Corporation of Kenya is a Kenyan organization currently hiring for Postal Corporation of Kenya. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 PowWater
+   Location: Nairobi
+   Roles (1):
+     • PowWater  — score 60
+       Apply: https://www.powwater.com/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — PowWater
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   PowWater is a Kenyan organization currently hiring for PowWater. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Precise Diagnostic Imaging
+   Location: Nairobi
+   Roles (1):
+     • Precise Diagnostic Imaging  — score 60
+       Apply: https://precisediagnostic.co.ke/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Precise Diagnostic Imaging
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Precise Diagnostic Imaging is a Kenyan organization currently hiring for Precise Diagnostic Imaging. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Precision Automotive Kenya
+   Location: Nairobi
+   Roles (1):
+     • Precision Automotive Kenya  — score 60
+       Apply: https://www.precisionkenya.com/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Precision Automotive Kenya
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Precision Automotive Kenya is a Kenyan organization currently hiring for Precision Automotive Kenya. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Python Developer
+   Location: Nairobi
+   Roles (1):
+     • Python Developer - Techno Brain Group  — score 75
+       Apply: https://bebee.com/ke/jobs/python-developer-techno-brain-group-nairobi--ss-ke-c1g764
+       Why:   + python; + title match; + location fit (Kenya); + salary ~$3000/mo; + fresh/undated
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Quickmart
+   Location: Nairobi
+   Roles (1):
+     • Quickmart  — score 60
+       Apply: https://www.quickmart.co.ke/?srsltid=AU7gw4VYHXuAM3FIOXndW23QDtUsMnOWtFmBH7kgbGO8fpkjHCwIzMnD
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Quickmart
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Quickmart is a Kenyan organization currently hiring for Quickmart. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 RCL Africa
+   Location: Nairobi
+   Roles (1):
+     • RCL Africa  — score 60
+       Apply: https://rclafrica.com/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — RCL Africa
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   RCL Africa is a Kenyan organization currently hiring for RCL Africa. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Rayhaan Healthcare
+   Location: Nairobi
+   Roles (1):
+     • Rayhaan Healthcare  — score 60
+       Apply: https://rayhaanhealth.com/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Rayhaan Healthcare
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Rayhaan Healthcare is a Kenyan organization currently hiring for Rayhaan Healthcare. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Rubis Energy Kenya
+   Location: Nairobi
+   Roles (1):
+     • Rubis Energy Kenya  — score 60
+       Apply: https://rubiskenya.com/enjoy-store/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Rubis Energy Kenya
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Rubis Energy Kenya is a Kenyan organization currently hiring for Rubis Energy Kenya. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Runda Water
+   Location: Nairobi
+   Roles (1):
+     • Runda Water  — score 60
+       Apply: https://rundawater.co.ke/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Runda Water
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Runda Water is a Kenyan organization currently hiring for Runda Water. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 SEKO Logistics
+   Location: Nairobi
+   Roles (1):
+     • SEKO Logistics  — score 60
+       Apply: https://www.sekologistics.com/en/regions/africa/kenya/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — SEKO Logistics
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   SEKO Logistics is a Kenyan organization currently hiring for SEKO Logistics. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 SGA Security
+   Location: Nairobi
+   Roles (1):
+     • SGA Security  — score 60
+       Apply: https://www.sgasecurity.com/news-articles/Courier-Services-in-Kenya-Courier-services-nairobi-Tanzania-Uganda
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — SGA Security
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   SGA Security is a Kenyan organization currently hiring for SGA Security. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Sheffield Cargo Logistics Limited
+   Location: Nairobi
+   Roles (1):
+     • Sheffield Cargo Logistics Limited  — score 60
+       Apply: https://sheffield.co.ke/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Sheffield Cargo Logistics Limited
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Sheffield Cargo Logistics Limited is a Kenyan organization currently hiring for Sheffield Cargo Logistics Limited. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Solargen
+   Location: Nairobi
+   Roles (1):
+     • Solargen  — score 60
+       Apply: https://solargentechnologies.com/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Solargen
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Solargen is a Kenyan organization currently hiring for Solargen. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Tech Convenience Store
+   Location: Nairobi
+   Roles (1):
+     • Tech Convenience Store  — score 60
+       Apply: https://conveniencestore.co.ke/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Tech Convenience Store
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Tech Convenience Store is a Kenyan organization currently hiring for Tech Convenience Store. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 The Karen Hospital
+   Location: Nairobi
+   Roles (1):
+     • The Karen Hospital  — score 60
+       Apply: https://karenhospital.org/medical-services/dental-services/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — The Karen Hospital
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   The Karen Hospital is a Kenyan organization currently hiring for The Karen Hospital. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 The Nairobi Hospital
+   Location: Nairobi
+   Roles (1):
+     • The Nairobi Hospital  — score 60
+       Apply: https://thenairobihosp.org/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — The Nairobi Hospital
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   The Nairobi Hospital is a Kenyan organization currently hiring for The Nairobi Hospital. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 TotalEnergies Marketing Kenya PLC
+   Location: Nairobi
+   Roles (1):
+     • TotalEnergies Marketing Kenya PLC  — score 60
+       Apply: https://totalenergies.ke/service-stations/totalenergies-service-stations
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — TotalEnergies Marketing Kenya PLC
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   TotalEnergies Marketing Kenya PLC is a Kenyan organization currently hiring for TotalEnergies Marketing Kenya PLC. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Transchem Pharmaceuticals
+   Location: Nairobi
+   Roles (1):
+     • Transchem Pharmaceuticals  — score 60
+       Apply: https://www.transchempharma.co.ke/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Transchem Pharmaceuticals
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Transchem Pharmaceuticals is a Kenyan organization currently hiring for Transchem Pharmaceuticals. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 Upper Hill Medical Centre
+   Location: Nairobi
+   Roles (1):
+     • Upper Hill Medical Centre  — score 60
+       Apply: https://uhmc.co.ke/departments/diagnostic-imaging-centre/
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — Upper Hill Medical Centre
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   Upper Hill Medical Centre is a Kenyan organization currently hiring for Upper Hill Medical Centre. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 ViaMichelin
+   Location: Nairobi
+   Roles (1):
+     • ViaMichelin  — score 60
+       Apply: https://www.viamichelin.com/maps/service-stations/kenya/nairobi/nairobi/nairobi-
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — ViaMichelin
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   ViaMichelin is a Kenyan organization currently hiring for ViaMichelin. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 ZoomInfo
+   Location: Nairobi
+   Roles (1):
+     • ZoomInfo  — score 60
+       Apply: https://www.zoominfo.com/top-lists/top-retail-convenience-store-companies-in-KE
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — ZoomInfo
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   ZoomInfo is a Kenyan organization currently hiring for ZoomInfo. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 myLPG.eu
+   Location: Nairobi
+   Roles (1):
+     • myLPG.eu  — score 60
+       Apply: https://www.mylpg.eu/stations/kenya/station/Motorgas-Autogas-Station-Ngong-Road-7647C6DE-1801-4718-6631-A9754504D4E8
+       Why:   + local organization lead (BI pitch target)
+
+   ── BI Improvement Recommendation ──
+   BI Improvement Memo — myLPG.eu
+   Prepared by: ABEL SHIKANDA (abelshikanda3@gmail.com)
+   ────────────────────────────────────────────────────────────
+   
+   1. Snapshot
+   myLPG.eu is a Kenyan organization currently hiring for myLPG.eu. Local
+   businesses in this space typically lose margin to manual record-keeping,
+   unlogged customer requests, and untracked supplier prices.
+   
+   2. Data to capture
+   - Daily transactions (M-Pesa + cash) reconciled per shift.
+   - Customer requests and their resolution time.
+   - Supplier price history for your top 10 inputs.
+   
+   3. BI improvements
+   - A one-page daily ops dashboard (revenue, footfall, top item).
+   - A supplier price tracker that flags >5% week-over-week jumps.
+   - A WhatsApp order pipeline that logs every inbound message to a sheet.
+   
+   4. Quick win (2 weeks)
+   Stand up a shared Google Sheet + a small Python script that pulls M-Pesa
+   statements daily into a single ledger. This alone typically surfaces
+   5–10% leakage in the first month.
+   
+   5. How I can help
+   I build exactly this kind of automation — scraping, dashboards, and ETL
+   pipelines — and can deliver the quick win while training your staff.
+
+────────────────────────────────────────────────────────────────────────
+
+🏢 serper
+   Location: Nairobi
+   Roles (1):
+     • 1790+ Python Developer At Technobrain Kenya Confidential ...  — score 75
+       Apply: https://ke.expertini.com/jobs/in/python-developer-at-technobrain-kenya-confidential/
+       Why:   + python; + title match; + location fit (Kenya); + salary ~$179000/mo; + fresh/undated
+
+────────────────────────────────────────────────────────────────────────

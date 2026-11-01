@@ -1,0 +1,471 @@
+Job Leads Report — 18 matches
+Generated: 2026-09-21 00:49:43
+======================================================================
+
+1. Frontend Web Application Developer
+   Company:  KoboToolbox
+   Location: USA, Canada, Argentina, Mexico, Peru
+   Score:    45
+   Reasons:  + react; + api; + salary ~$90000/mo; + very fresh; + remote
+   Apply:    https://remotive.com/remote-jobs/design/frontend-web-application-developer-2091141
+
+   ── Cover Letter ──
+   Subject: Application — Frontend Web Application Developer at KoboToolbox
+   
+   Dear Hiring Manager,
+   
+   I came across the Frontend Web Application Developer role at KoboToolbox and it aligns closely with my work in api, react.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+2. Working Student Application Software Engineer
+   Company:  Isarsoft
+   Location: Munich
+   Score:    75
+   Reasons:  + python; + sql; + docker; + ci/cd; + git; + api; + title match; + salary ~$201000/mo; + fresh/undated
+   Apply:    https://www.arbeitnow.com/jobs/companies/isarsoft/working-student-application-software-engineer-munich-156176
+
+   ── Cover Letter ──
+   Subject: Application — Working Student Application Software Engineer at Isarsoft
+   
+   Dear Hiring Manager,
+   
+   I came across the Working Student Application Software Engineer role at Isarsoft and it aligns closely with my work in api, ci/cd, docker.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+3. Senior Unreal Engine Developer – Synthetic Data & AI Simulation
+   Company:  autonomous-teaming
+   Location: Munich (DEU)
+   Score:    53
+   Reasons:  + python; + automation; + git; + salary ~$5000/mo; + fresh/undated
+   Apply:    https://www.arbeitnow.com/jobs/companies/autonomous-teaming/senior-unreal-engine-developer-synthetic-data-ai-simulation-munich-deu-130631
+
+   ── Cover Letter ──
+   Subject: Application — Senior Unreal Engine Developer – Synthetic Data & AI Simulation at autonomous-teaming
+   
+   Dear Hiring Manager,
+   
+   I came across the Senior Unreal Engine Developer – Synthetic Data & AI Simulation role at autonomous-teaming and it aligns closely with my work in automation, git, go.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+4. Cybersecurity (Senior) Software Engineer (m/w/d)
+   Company:  Trusteq Gmbh
+   Location: München
+   Score:    66
+   Reasons:  + python; + ci/cd; + api; + title match; + salary ~$14000/mo; + fresh/undated
+   Apply:    https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/cybersecurity-senior-software-engineer-munchen-318897
+
+   ── Cover Letter ──
+   Subject: Application — Cybersecurity (Senior) Software Engineer (m/w/d) at Trusteq Gmbh
+   
+   Dear Hiring Manager,
+   
+   I came across the Cybersecurity (Senior) Software Engineer (m/w/d) role at Trusteq Gmbh and it aligns closely with my work in api, ci/cd, go.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+5. Cloud (Senior) Engineer / Architect (m/ w/ d)
+   Company:  Trusteq Gmbh
+   Location: Köln
+   Score:    61
+   Reasons:  + python; + automation; + ci/cd; + git; + github; + salary ~$14000/mo; + fresh/undated; + remote
+   Apply:    https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/cloud-senior-engineer-architect-m-w-d-koln-343550
+
+   ── Cover Letter ──
+   Subject: Application — Cloud (Senior) Engineer / Architect (m/ w/ d) at Trusteq Gmbh
+   
+   Dear Hiring Manager,
+   
+   I came across the Cloud (Senior) Engineer / Architect (m/ w/ d) role at Trusteq Gmbh and it aligns closely with my work in automation, ci/cd, git.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+6. Fullstack Developer (m/w/d)
+   Company:  Semdor Pharma Group GmbH
+   Location: Köln
+   Score:    93
+   Reasons:  + javascript; + react; + node; + git; + title match; + salary ~$323000/mo; + fresh/undated
+   Apply:    https://www.arbeitnow.com/jobs/companies/semdor-pharma-group-gmbh/fullstack-developer-koln-139576
+
+   ── Cover Letter ──
+   Subject: Application — Fullstack Developer (m/w/d) at Semdor Pharma Group GmbH
+   
+   Dear Hiring Manager,
+   
+   I came across the Fullstack Developer (m/w/d) role at Semdor Pharma Group GmbH and it aligns closely with my work in git, go, java.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+7. Full-Stack Engineer
+   Company:  Renewa
+   Location: RENEWA - Hamburg
+   Score:    64
+   Reasons:  + react; + sql; + postgresql; + docker; + git; + api; + title match; + fresh/undated; + remote; + contract
+   Apply:    https://www.arbeitnow.com/jobs/companies/renewa/full-stack-engineer-renewa-hamburg-300639
+
+   ── Cover Letter ──
+   Subject: Application — Full-Stack Engineer at Renewa
+   
+   Dear Hiring Manager,
+   
+   I came across the Full-Stack Engineer role at Renewa and it aligns closely with my work in api, docker, git.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+8. Campaign Manager (FTC) (div/f/m)
+   Company:  dept
+   Location: Remote
+   Score:    57
+   Reasons:  + automation; + rest; + location fit; + salary ~$31000/mo; + fresh/undated; + remote; + contract
+   Apply:    https://www.arbeitnow.com/jobs/companies/dept/campaign-manager-ftc-di-217421
+
+   ── Cover Letter ──
+   Subject: Application — Campaign Manager (FTC) (div/f/m) at dept
+   
+   Dear Hiring Manager,
+   
+   I came across the Campaign Manager (FTC) (div/f/m) role at dept and it aligns closely with my work in automation.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+9. Senior Backend Engineer
+   Company:  appinio
+   Location: Hamburg, Hamburg
+   Score:    62
+   Reasons:  + node; + title match; + salary ~$201000/mo; + fresh/undated; + remote
+   Apply:    https://www.arbeitnow.com/jobs/companies/appinio/senior-backend-engineer-hamburg-hamburg-182193
+
+   ── Cover Letter ──
+   Subject: Application — Senior Backend Engineer at appinio
+   
+   Dear Hiring Manager,
+   
+   I came across the Senior Backend Engineer role at appinio and it aligns closely with my work in go, node.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+10. Full Stack Engineer, Contract
+   Company:  66Degrees
+   Location: Remote
+   Score:    127
+   Reasons:  + python; + fastapi; + react; + node; + api; + title match; + location fit; + salary ~$100000/mo; + fresh/undated; + remote; + contract
+   Apply:    https://www.arbeitnow.co.uk/jobs/companies/66degrees/full-stack-engineer-contract-218844
+
+   ── Cover Letter ──
+   Subject: Application — Full Stack Engineer, Contract at 66Degrees
+   
+   Dear Hiring Manager,
+   
+   I came across the Full Stack Engineer, Contract role at 66Degrees and it aligns closely with my work in api, go, node.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+11. Software Engineer, New Grad
+   Company:  Deliveroo
+   Location: London
+   Score:    60
+   Reasons:  + python; + title match; + salary ~$2000/mo; + fresh/undated
+   Apply:    https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-new-grad-london-363
+
+   ── Cover Letter ──
+   Subject: Application — Software Engineer, New Grad at Deliveroo
+   
+   Dear Hiring Manager,
+   
+   I came across the Software Engineer, New Grad role at Deliveroo and it aligns closely with my work in go, python.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+12. Software Engineer, GenAI Platform
+   Company:  Deliveroo
+   Location: London
+   Score:    45
+   Reasons:  + automation; + title match; + fresh/undated
+   Apply:    https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-genai-platform-london-481615
+
+   ── Cover Letter ──
+   Subject: Application — Software Engineer, GenAI Platform at Deliveroo
+   
+   Dear Hiring Manager,
+   
+   I came across the Software Engineer, GenAI Platform role at Deliveroo and it aligns closely with my work in automation.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+13. Software Engineer, Backend (BI Platform)
+   Company:  Deliveroo
+   Location: London
+   Score:    63
+   Reasons:  + automation; + api; + title match; + salary ~$3000/mo; + fresh/undated
+   Apply:    https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-backend-bi-platform-london-345210
+
+   ── Cover Letter ──
+   Subject: Application — Software Engineer, Backend (BI Platform) at Deliveroo
+   
+   Dear Hiring Manager,
+   
+   I came across the Software Engineer, Backend (BI Platform) role at Deliveroo and it aligns closely with my work in api, automation.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+14. Software Engineer
+   Company:  Deliveroo
+   Location: London
+   Score:    60
+   Reasons:  + python; + title match; + salary ~$2000/mo; + fresh/undated
+   Apply:    https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-london-71686
+
+   ── Cover Letter ──
+   Subject: Application — Software Engineer at Deliveroo
+   
+   Dear Hiring Manager,
+   
+   I came across the Software Engineer role at Deliveroo and it aligns closely with my work in go, python.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+15. Senior Software Engineer, Event Streaming Systems
+   Company:  Deliveroo
+   Location: London
+   Score:    45
+   Reasons:  + automation; + title match; + fresh/undated
+   Apply:    https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-software-engineer-event-streaming-systems-london-489315
+
+   ── Cover Letter ──
+   Subject: Application — Senior Software Engineer, Event Streaming Systems at Deliveroo
+   
+   Dear Hiring Manager,
+   
+   I came across the Senior Software Engineer, Event Streaming Systems role at Deliveroo and it aligns closely with my work in automation.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+16. Manager I, Engineering - Security Libraries
+   Company:  Datadog
+   Location: Paris
+   Score:    74
+   Reasons:  + python; + php; + node; + git; + github; + api; + salary ~$4000/mo; + fresh/undated
+   Apply:    https://www.arbeitnow.fr/jobs/companies/datadog/manager-i-engineering-security-libraries-paris-386579
+
+   ── Cover Letter ──
+   Subject: Application — Manager I, Engineering - Security Libraries at Datadog
+   
+   Dear Hiring Manager,
+   
+   I came across the Manager I, Engineering - Security Libraries role at Datadog and it aligns closely with my work in api, git, github.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+17. Software Developer
+   Company:  Cisive
+   Location: United States
+   Score:    87
+   Reasons:  + javascript; + react; + sql; + ci/cd; + api; + rest; + title match; + salary ~$3000/mo; + fresh/undated
+   Apply:    https://himalayas.app/companies/cisive/jobs/software-developer
+
+   ── Cover Letter ──
+   Subject: Application — Software Developer at Cisive
+   
+   Dear Hiring Manager,
+   
+   I came across the Software Developer role at Cisive and it aligns closely with my work in api, ci/cd, go.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+18. Principal Python Developer
+   Company:  Bright Vision Technologies
+   Location: United States
+   Score:    86
+   Reasons:  + python; + automation; + sql; + postgresql; + ci/cd; + title match; + salary ~$10000/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/bright-vision-technologies/jobs/principal-python-developer-8664918210
+
+   ── Cover Letter ──
+   Subject: Application — Principal Python Developer at Bright Vision Technologies
+   
+   Dear Hiring Manager,
+   
+   I came across the Principal Python Developer role at Bright Vision Technologies and it aligns closely with my work in automation, ci/cd, go.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------

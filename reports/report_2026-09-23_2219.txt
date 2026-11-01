@@ -1,0 +1,1161 @@
+Job Leads Report — 72 matches
+Generated: 2026-09-23 22:19:56
+======================================================================
+
+1. Product Architect & Software Engineer (AI) (m/w/d)
+   Company:  LS Leasing & Service GmbH
+   Location: Munich
+   Score:    64
+   Reasons:  + automation; + title match; + salary ~$2000/mo; + fresh/undated; + remote; + contract
+   Apply:    https://www.arbeitnow.com/jobs/companies/ls-leasing-service-gmbh/product-architect-software-engineer-ai-munich-373856
+
+----------------------------------------------------------------------
+
+2. Fullstack Platform Engineer
+   Company:  WePush
+   Location: Berlin
+   Score:    90
+   Reasons:  + react; + node; + sql; + postgresql; + docker; + ci/cd; + api; + title match; + salary ~$2000/mo; + fresh/undated
+   Apply:    https://www.arbeitnow.com/jobs/companies/wepush/fullstack-platform-engineer-berlin-225651
+
+----------------------------------------------------------------------
+
+3. AI Product Engineer
+   Company:  paddy
+   Location: Bielefeld
+   Score:    66
+   Reasons:  + react; + node; + sql; + docker; + ci/cd; + api; + salary ~$26000/mo; + fresh/undated; + remote; + equity
+   Apply:    https://www.arbeitnow.com/jobs/companies/paddy/ai-product-engineer-bielefeld-415380
+
+----------------------------------------------------------------------
+
+4. Senior Python Developer (w/m/d) - Remote
+   Company:  node.energy
+   Location: Frankfurt am Main
+   Score:    104
+   Reasons:  + python; + django; + node; + sql; + postgresql; + docker; + git; + title match; + salary ~$14000/mo; + fresh/undated; + remote
+   Apply:    https://www.arbeitnow.com/jobs/companies/nodeenergy/senior-python-developer-remote-frankfurt-am-main-250296
+
+   ── Cover Letter ──
+   Subject: Application — Senior Python Developer (w/m/d) - Remote at node.energy
+   
+   Dear Hiring Manager,
+   
+   I came across the Senior Python Developer (w/m/d) - Remote role at node.energy and it aligns closely with my work in django, docker, git.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+5. Strategic Alliances Principal - UK&I
+   Company:  Remotereferralboardinternaluseonly
+   Location: Remote
+   Score:    58
+   Reasons:  + automation; + location fit; + salary ~$2000/mo; + fresh/undated; + remote; + contract; + contractor; + async
+   Apply:    https://www.arbeitnow.co.uk/jobs/companies/remotereferralboardinternaluseonly/strategic-alliances-principal-uki-59809
+
+----------------------------------------------------------------------
+
+6. Software Engineer II - Full Stack - Web Engineering
+   Company:  Elastic
+   Location: Remote
+   Score:    79
+   Reasons:  + react; + title match; + location fit; + salary ~$50000/mo; + fresh/undated; + remote; + async
+   Apply:    https://www.arbeitnow.co.uk/jobs/companies/elastic/software-engineer-ii-full-stack-web-engineering-365481
+
+----------------------------------------------------------------------
+
+7. Senior Java Engineer - Core / Infra - Elasticsearch
+   Company:  Elastic
+   Location: Remote
+   Score:    58
+   Reasons:  + automation; + ci/cd; + api; + location fit; + salary ~$50000/mo; + fresh/undated; + remote
+   Apply:    https://www.arbeitnow.co.uk/jobs/companies/elastic/senior-java-engineer-core-infra-elasticsearch-109979
+
+----------------------------------------------------------------------
+
+8. Principal AI Engineer - Context - Agents and Context
+   Company:  Elastic
+   Location: Remote
+   Score:    58
+   Reasons:  + automation; + api; + rest; + location fit; + salary ~$50000/mo; + fresh/undated; + remote
+   Apply:    https://www.arbeitnow.co.uk/jobs/companies/elastic/principal-ai-engineer-context-agents-and-context-179934
+
+----------------------------------------------------------------------
+
+9. Senior Full-Stack Product Engineer
+   Company:  The Flex
+   Location: Paris
+   Score:    60
+   Reasons:  + automation; + title match; + salary ~$2000/mo; + fresh/undated
+   Apply:    https://www.arbeitnow.fr/jobs/companies/the-flex/senior-full-stack-product-engineer-paris-446978
+
+----------------------------------------------------------------------
+
+10. Senior Software Engineer
+   Company:  The Flex
+   Location: Paris
+   Score:    63
+   Reasons:  + automation; + api; + title match; + salary ~$2000/mo; + fresh/undated
+   Apply:    https://www.arbeitnow.fr/jobs/companies/the-flex/senior-software-engineer-paris-202243
+
+----------------------------------------------------------------------
+
+11. Senior Software Engineer, Kubernetes
+   Company:  Camunda
+   Location: Remote
+   Score:    62
+   Reasons:  + automation; + title match; + location fit; + fresh/undated; + remote
+   Apply:    https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-software-engineer-kubernetes-95767
+
+----------------------------------------------------------------------
+
+12. Senior Software Engineer, Engineering Operations
+   Company:  Camunda
+   Location: Remote
+   Score:    62
+   Reasons:  + automation; + title match; + location fit; + fresh/undated; + remote
+   Apply:    https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-software-engineer-engineering-operations-474753
+
+----------------------------------------------------------------------
+
+13. Lead Software Engineer
+   Company:  Pqshield
+   Location: UK, Netherlands, Spain, or Belgium. Some travel to our offices will be required from time-to-time
+   Score:    60
+   Reasons:  + node; + title match; + salary ~$72000/mo; + fresh/undated
+   Apply:    https://www.arbeitnow.fr/jobs/companies/pqshield/lead-software-engineer-uk-netherlands-spain-or-belgium-some-travel-to-our-offices-will-be-required-from-time-to-time-415979
+
+----------------------------------------------------------------------
+
+14. DESARROLLADOR FULL STACK (PYTHON + ANGULAR + GO)
+   Company:  XKTalent Inc. - Rimutee
+   Location: Worldwide
+   Score:    91
+   Reasons:  + python; + sql; + git; + api; + rest; + title match; + location fit; + salary ~$3000/mo; + fresh/undated; + contract; + contractor
+   Apply:    https://himalayas.app/companies/rekluti/jobs/desarrollador-full-stack-python-angular-go
+
+----------------------------------------------------------------------
+
+15. Product Engineers Full Stack CX
+   Company:  Trafilea
+   Location: Worldwide
+   Score:    83
+   Reasons:  + automation; + git; + api; + title match; + location fit; + salary ~$4000/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/trafilea-com/jobs/product-engineers-full-stack-cx
+
+----------------------------------------------------------------------
+
+16. 1146 - Fullstack Engineer
+   Company:  GoFasti
+   Location: Worldwide
+   Score:    83
+   Reasons:  + react; + api; + rest; + title match; + location fit; + salary ~$300000/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/gofasti/jobs/1146-fullstack-engineer
+
+----------------------------------------------------------------------
+
+17. Senior/ Principal Full-Stack Engineer (B2C Anti-Cheat POC)
+   Company:  A5 Labs
+   Location: Worldwide
+   Score:    95
+   Reasons:  + react; + node; + api; + title match; + location fit; + salary ~$2000/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/a5-labs/jobs/senior-principal-full-stack-engineer-b2c-anti-cheat-poc
+
+   ── Cover Letter ──
+   Subject: Application — Senior/ Principal Full-Stack Engineer (B2C Anti-Cheat POC) at A5 Labs
+   
+   Dear Hiring Manager,
+   
+   I came across the Senior/ Principal Full-Stack Engineer (B2C Anti-Cheat POC) role at A5 Labs and it aligns closely with my work in api, node, react.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+18. Full-Stack Developer
+   Company:  KDCI
+   Location: Worldwide
+   Score:    123
+   Reasons:  + python; + php; + react; + sql; + docker; + ci/cd; + git; + api; + rest; + title match; + location fit; + salary ~$3000/mo; + fresh/undated
+   Apply:    https://himalayas.app/companies/kdci/jobs/full-stack-developer
+
+   ── Cover Letter ──
+   Subject: Application — Full-Stack Developer at KDCI
+   
+   Dear Hiring Manager,
+   
+   I came across the Full-Stack Developer role at KDCI and it aligns closely with my work in api, ci/cd, docker.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+19. Full-Stack Developer
+   Company:  Kodify Media Group
+   Location: Worldwide
+   Score:    114
+   Reasons:  + javascript; + react; + node; + sql; + docker; + api; + title match; + location fit; + salary ~$4000/mo; + fresh/undated
+   Apply:    https://himalayas.app/companies/kodify-media-group/jobs/full-stack-developer
+
+   ── Cover Letter ──
+   Subject: Application — Full-Stack Developer at Kodify Media Group
+   
+   Dear Hiring Manager,
+   
+   I came across the Full-Stack Developer role at Kodify Media Group and it aligns closely with my work in api, docker, go.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+20. Full Stack Developer
+   Company:  Talent Sam
+   Location: Worldwide
+   Score:    161
+   Reasons:  + python; + php; + javascript; + react; + node; + sql; + mysql; + postgresql; + ci/cd; + git; + github; + api; + rest; + title match; + location fit; + salary ~$3000/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/talent-sam/jobs/full-stack-developer-1559067408
+
+   ── Cover Letter ──
+   Subject: Application — Full Stack Developer at Talent Sam
+   
+   Dear Hiring Manager,
+   
+   I came across the Full Stack Developer role at Talent Sam and it aligns closely with my work in api, ci/cd, git.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+21. Senior Full-Stack Developer
+   Company:  Kodify Media Group
+   Location: Worldwide
+   Score:    135
+   Reasons:  + javascript; + react; + node; + automation; + sql; + docker; + git; + github; + api; + title match; + location fit; + salary ~$4000/mo; + fresh/undated
+   Apply:    https://himalayas.app/companies/kodify-media-group/jobs/senior-full-stack-developer
+
+   ── Cover Letter ──
+   Subject: Application — Senior Full-Stack Developer at Kodify Media Group
+   
+   Dear Hiring Manager,
+   
+   I came across the Senior Full-Stack Developer role at Kodify Media Group and it aligns closely with my work in api, automation, docker.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+22. Lead Fullstack Developer
+   Company:  Teravision Technologies
+   Location: Worldwide
+   Score:    111
+   Reasons:  + python; + react; + node; + title match; + location fit; + salary ~$170000/mo; + fresh/undated; + remote; + contract; + contractor
+   Apply:    https://himalayas.app/companies/teravision-technologies/jobs/lead-fullstack-developer-6132357482
+
+   ── Cover Letter ──
+   Subject: Application — Lead Fullstack Developer at Teravision Technologies
+   
+   Dear Hiring Manager,
+   
+   I came across the Lead Fullstack Developer role at Teravision Technologies and it aligns closely with my work in go, java, node.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+23. Java Full Stack Developer
+   Company:  TechBiz Global
+   Location: Worldwide
+   Score:    99
+   Reasons:  + javascript; + react; + sql; + api; + rest; + title match; + location fit; + salary ~$3000/mo; + fresh/undated
+   Apply:    https://himalayas.app/companies/techbiz-global/jobs/java-full-stack-developer-6675322764
+
+   ── Cover Letter ──
+   Subject: Application — Java Full Stack Developer at TechBiz Global
+   
+   Dear Hiring Manager,
+   
+   I came across the Java Full Stack Developer role at TechBiz Global and it aligns closely with my work in api, go, java.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+24. Full Stack TypeScript Developer
+   Company:  Crewfare
+   Location: Worldwide
+   Score:    117
+   Reasons:  + javascript; + react; + node; + sql; + postgresql; + api; + rest; + title match; + location fit; + salary ~$3000/mo; + fresh/undated
+   Apply:    https://himalayas.app/companies/crewfare/jobs/full-stack-typescript-developer
+
+   ── Cover Letter ──
+   Subject: Application — Full Stack TypeScript Developer at Crewfare
+   
+   Dear Hiring Manager,
+   
+   I came across the Full Stack TypeScript Developer role at Crewfare and it aligns closely with my work in api, go, java.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+25. Fullstack .NET Developer (React)
+   Company:  gravity9
+   Location: Worldwide
+   Score:    78
+   Reasons:  + react; + rest; + title match; + location fit; + salary ~$9000/mo; + fresh/undated
+   Apply:    https://himalayas.app/companies/gravity9/jobs/fullstack-net-developer-react
+
+----------------------------------------------------------------------
+
+26. Full Stack Developer
+   Company:  Native
+   Location: Worldwide
+   Score:    162
+   Reasons:  + python; + fastapi; + php; + javascript; + react; + node; + docker; + ci/cd; + api; + rest; + title match; + location fit; + salary ~$3000/mo; + fresh/undated
+   Apply:    https://himalayas.app/companies/native/jobs/full-stack-developer
+
+   ── Cover Letter ──
+   Subject: Application — Full Stack Developer at Native
+   
+   Dear Hiring Manager,
+   
+   I came across the Full Stack Developer role at Native and it aligns closely with my work in api, ci/cd, docker.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+27. Full Stack Developer
+   Company:  TechBiz Global
+   Location: Worldwide
+   Score:    105
+   Reasons:  + javascript; + react; + sql; + ci/cd; + git; + api; + rest; + title match; + location fit; + salary ~$3000/mo; + fresh/undated
+   Apply:    https://himalayas.app/companies/techbiz-global/jobs/full-stack-developer-397759707
+
+   ── Cover Letter ──
+   Subject: Application — Full Stack Developer at TechBiz Global
+   
+   Dear Hiring Manager,
+   
+   I came across the Full Stack Developer role at TechBiz Global and it aligns closely with my work in api, ci/cd, git.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+28. Full Stack Software Developer (Remote locations)
+   Company:  Halborn
+   Location: Worldwide
+   Score:    107
+   Reasons:  + python; + react; + node; + title match; + location fit; + salary ~$201000/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/halborn/jobs/full-stack-software-developer-remote-locations
+
+   ── Cover Letter ──
+   Subject: Application — Full Stack Software Developer (Remote locations) at Halborn
+   
+   Dear Hiring Manager,
+   
+   I came across the Full Stack Software Developer (Remote locations) role at Halborn and it aligns closely with my work in node, python, react.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+29. Sr Enterprise Full Stack Developer
+   Company:  DistantJob
+   Location: Worldwide
+   Score:    69
+   Reasons:  + javascript; + sql; + git; + api; + title match; + location fit; + fresh/undated
+   Apply:    https://himalayas.app/companies/distantjob/jobs/sr-enterprise-full-stack-developer
+
+----------------------------------------------------------------------
+
+30. Full Stack Engineer
+   Company:  Sortitt
+   Location: Worldwide
+   Score:    128
+   Reasons:  + javascript; + react; + node; + sql; + mysql; + postgresql; + ci/cd; + git; + api; + rest; + title match; + location fit; + salary ~$3000/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/sortitt/jobs/full-stack-engineer
+
+   ── Cover Letter ──
+   Subject: Application — Full Stack Engineer at Sortitt
+   
+   Dear Hiring Manager,
+   
+   I came across the Full Stack Engineer role at Sortitt and it aligns closely with my work in api, ci/cd, git.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+31. Senior Full-Stack Developer (Node.js/React)
+   Company:  S-PRO
+   Location: Worldwide
+   Score:    107
+   Reasons:  + react; + node; + sql; + postgresql; + docker; + git; + api; + title match; + location fit; + salary ~$200000/mo; + fresh/undated; + contract
+   Apply:    https://himalayas.app/companies/s-pro/jobs/senior-full-stack-developer-node-js-react
+
+   ── Cover Letter ──
+   Subject: Application — Senior Full-Stack Developer (Node.js/React) at S-PRO
+   
+   Dear Hiring Manager,
+   
+   I came across the Senior Full-Stack Developer (Node.js/React) role at S-PRO and it aligns closely with my work in api, docker, git.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+32. Software Developer
+   Company:  micro1
+   Location: Worldwide
+   Score:    117
+   Reasons:  + python; + javascript; + node; + git; + api; + title match; + location fit; + salary ~$3000/mo; + fresh/undated; + remote; + contract; + contractor
+   Apply:    https://himalayas.app/companies/micro1/jobs/software-developer-23980
+
+   ── Cover Letter ──
+   Subject: Application — Software Developer at micro1
+   
+   Dear Hiring Manager,
+   
+   I came across the Software Developer role at micro1 and it aligns closely with my work in api, git, go.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+33. Software Engineer - App Stores
+   Company:  Canonical
+   Location: Worldwide
+   Score:    83
+   Reasons:  + python; + api; + rest; + title match; + location fit; + salary ~$120000/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/canonical/jobs/software-engineer-app-stores
+
+----------------------------------------------------------------------
+
+34. Lead Python Software Engineer, Commercial Systems
+   Company:  Canonical
+   Location: Worldwide
+   Score:    95
+   Reasons:  + python; + automation; + rest; + title match; + location fit; + salary ~$120000/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/canonical/jobs/lead-python-software-engineer-commercial-systems
+
+   ── Cover Letter ──
+   Subject: Application — Lead Python Software Engineer, Commercial Systems at Canonical
+   
+   Dear Hiring Manager,
+   
+   I came across the Lead Python Software Engineer, Commercial Systems role at Canonical and it aligns closely with my work in automation, go, python.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+35. Senior Software Engineer
+   Company:  Federato
+   Location: Worldwide
+   Score:    90
+   Reasons:  + react; + node; + title match; + location fit; + salary ~$14166/mo; + fresh/undated
+   Apply:    https://himalayas.app/companies/federato/jobs/senior-software-engineer
+
+----------------------------------------------------------------------
+
+36. Staff Software Engineer
+   Company:  Federato
+   Location: Worldwide
+   Score:    144
+   Reasons:  + python; + django; + javascript; + react; + node; + sql; + postgresql; + api; + title match; + location fit; + salary ~$17500/mo; + fresh/undated
+   Apply:    https://himalayas.app/companies/federato/jobs/staff-software-engineer
+
+   ── Cover Letter ──
+   Subject: Application — Staff Software Engineer at Federato
+   
+   Dear Hiring Manager,
+   
+   I came across the Staff Software Engineer role at Federato and it aligns closely with my work in api, django, go.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+37. Juju Software Engineer (Go)
+   Company:  Canonical
+   Location: Worldwide
+   Score:    83
+   Reasons:  + automation; + docker; + rest; + title match; + location fit; + salary ~$10000/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/canonical/jobs/juju-software-engineer-go
+
+----------------------------------------------------------------------
+
+38. Ubuntu Software Engineer
+   Company:  Canonical
+   Location: Worldwide
+   Score:    80
+   Reasons:  + python; + rest; + title match; + location fit; + salary ~$120000/mo; + fresh/undated; + freelance
+   Apply:    https://himalayas.app/companies/canonical/jobs/ubuntu-software-engineer
+
+----------------------------------------------------------------------
+
+39. Senior Software Engineer (Backend)
+   Company:  Canonical
+   Location: Worldwide
+   Score:    83
+   Reasons:  + python; + api; + rest; + title match; + location fit; + salary ~$120000/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/canonical/jobs/senior-software-engineer-backend
+
+----------------------------------------------------------------------
+
+40. Senior Node.js Software Engineer - Holepunch (100% Remote, Worldwide)
+   Company:  Tether Operations Limited
+   Location: Worldwide
+   Score:    83
+   Reasons:  + node; + git; + rest; + title match; + location fit; + salary ~$3000/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/tether-operations-limited/jobs/senior-node-js-software-engineer-holepunch-100-remote-worldwide
+
+----------------------------------------------------------------------
+
+41. Software Engineer
+   Company:  EVB
+   Location: Worldwide
+   Score:    84
+   Reasons:  + python; + api; + title match; + location fit; + salary ~$15000/mo; + fresh/undated; + remote; + contract; + contractor
+   Apply:    https://himalayas.app/companies/evb/jobs/software-engineer-2520316768
+
+----------------------------------------------------------------------
+
+42. Python Backend Engineer (m/f/x)
+   Company:  Makersite
+   Location: Worldwide
+   Score:    106
+   Reasons:  + python; + flask; + sql; + git; + api; + rest; + title match; + location fit; + salary ~$3000/mo; + fresh/undated; + remote; + contract
+   Apply:    https://himalayas.app/companies/makersite/jobs/python-backend-engineer-m-f-x
+
+   ── Cover Letter ──
+   Subject: Application — Python Backend Engineer (m/f/x) at Makersite
+   
+   Dear Hiring Manager,
+   
+   I came across the Python Backend Engineer (m/f/x) role at Makersite and it aligns closely with my work in api, git, python.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+43. Senior Backend Engineer (Python, AI, EdTech)
+   Company:  Novakid School
+   Location: Worldwide
+   Score:    94
+   Reasons:  + python; + fastapi; + sql; + postgresql; + ci/cd; + api; + rest; + title match; + location fit; + fresh/undated; + remote; + flexible schedule
+   Apply:    https://himalayas.app/companies/novakid-school/jobs/senior-backend-engineer-python-ai-edtech
+
+   ── Cover Letter ──
+   Subject: Application — Senior Backend Engineer (Python, AI, EdTech) at Novakid School
+   
+   Dear Hiring Manager,
+   
+   I came across the Senior Backend Engineer (Python, AI, EdTech) role at Novakid School and it aligns closely with my work in api, ci/cd, go.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+44. Senior Software Engineer - Python/MongoDB
+   Company:  Canonical
+   Location: Worldwide
+   Score:    92
+   Reasons:  + python; + automation; + title match; + location fit; + salary ~$3000/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/canonical/jobs/senior-software-engineer-python-mongodb
+
+----------------------------------------------------------------------
+
+45. Senior Software Engineer - Python
+   Company:  G2i
+   Location: Worldwide
+   Score:    92
+   Reasons:  + python; + javascript; + title match; + location fit; + salary ~$3000/mo; + fresh/undated; + contract
+   Apply:    https://himalayas.app/companies/g2i/jobs/senior-software-engineer-python
+
+----------------------------------------------------------------------
+
+46. Senior Back-End Engineer (Python/AWS)
+   Company:  Digital Forms
+   Location: Worldwide
+   Score:    104
+   Reasons:  + python; + django; + fastapi; + automation; + ci/cd; + git; + api; + location fit; + salary ~$3000/mo; + fresh/undated
+   Apply:    https://himalayas.app/companies/digitalforms/jobs/senior-back-end-engineer-python-aws
+
+   ── Cover Letter ──
+   Subject: Application — Senior Back-End Engineer (Python/AWS) at Digital Forms
+   
+   Dear Hiring Manager,
+   
+   I came across the Senior Back-End Engineer (Python/AWS) role at Digital Forms and it aligns closely with my work in api, automation, ci/cd.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+47. Python Engineer, AI Coding Agent Evaluator
+   Company:  G2i
+   Location: Worldwide
+   Score:    92
+   Reasons:  + python; + javascript; + title match; + location fit; + salary ~$3000/mo; + fresh/undated; + contract
+   Apply:    https://himalayas.app/companies/g2i/jobs/python-engineer-ai-coding-agent-evaluator
+
+----------------------------------------------------------------------
+
+48. Backend Software Engineer - Python/Postgres [Remote / Global]
+   Company:  Enveritas
+   Location: Worldwide
+   Score:    95
+   Reasons:  + python; + sql; + postgresql; + ci/cd; + git; + github; + rest; + title match; + location fit; + salary ~$11250/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/enveritas/jobs/backend-software-engineer-python-postgres-remote-global-3750809995
+
+   ── Cover Letter ──
+   Subject: Application — Backend Software Engineer - Python/Postgres [Remote / Global] at Enveritas
+   
+   Dear Hiring Manager,
+   
+   I came across the Backend Software Engineer - Python/Postgres [Remote / Global] role at Enveritas and it aligns closely with my work in ci/cd, git, github.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+49. Python Engineer, AI Code Reviewer
+   Company:  G2i
+   Location: Worldwide
+   Score:    92
+   Reasons:  + python; + javascript; + title match; + location fit; + salary ~$3000/mo; + fresh/undated; + contract
+   Apply:    https://himalayas.app/companies/g2i/jobs/python-engineer-ai-code-reviewer
+
+----------------------------------------------------------------------
+
+50. Python - Senior Backend Engineer, AI Coding Agent Quality
+   Company:  G2i
+   Location: Worldwide
+   Score:    92
+   Reasons:  + python; + javascript; + title match; + location fit; + salary ~$3000/mo; + fresh/undated; + contract
+   Apply:    https://himalayas.app/companies/g2i/jobs/python-senior-backend-engineer-ai-coding-agent-quality
+
+----------------------------------------------------------------------
+
+51. Senior Fullstack Engineer (Vue/Python)
+   Company:  S-PRO
+   Location: Worldwide
+   Score:    117
+   Reasons:  + python; + django; + playwright; + sql; + postgresql; + api; + rest; + title match; + location fit; + salary ~$3000/mo; + fresh/undated
+   Apply:    https://himalayas.app/companies/s-pro/jobs/senior-fullstack-engineer-vue-python
+
+   ── Cover Letter ──
+   Subject: Application — Senior Fullstack Engineer (Vue/Python) at S-PRO
+   
+   Dear Hiring Manager,
+   
+   I came across the Senior Fullstack Engineer (Vue/Python) role at S-PRO and it aligns closely with my work in api, django, go.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+52. Senior Full-Stack Engineer (Python/ReactJS)
+   Company:  Curotec
+   Location: Worldwide
+   Score:    164
+   Reasons:  + python; + django; + flask; + fastapi; + react; + sql; + mysql; + postgresql; + docker; + ci/cd; + git; + github; + api; + rest; + title match; + location fit; + salary ~$3000/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/curotec/jobs/senior-full-stack-engineer-python-reactjs
+
+   ── Cover Letter ──
+   Subject: Application — Senior Full-Stack Engineer (Python/ReactJS) at Curotec
+   
+   Dear Hiring Manager,
+   
+   I came across the Senior Full-Stack Engineer (Python/ReactJS) role at Curotec and it aligns closely with my work in api, ci/cd, django.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+53. Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics
+   Company:  Canonical
+   Location: Worldwide
+   Score:    78
+   Reasons:  + python; + rest; + title match; + location fit; + salary ~$100000/mo; + fresh/undated
+   Apply:    https://himalayas.app/companies/canonical/jobs/python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics
+
+----------------------------------------------------------------------
+
+54. Senior Software Engineer, Code Quality for AI Training (Python)
+   Company:  G2i
+   Location: Worldwide
+   Score:    92
+   Reasons:  + python; + javascript; + title match; + location fit; + salary ~$3000/mo; + fresh/undated; + contract
+   Apply:    https://himalayas.app/companies/g2i/jobs/senior-software-engineer-code-quality-for-ai-training-python
+
+----------------------------------------------------------------------
+
+55. Senior Python Engineer - LLM Code Evaluation
+   Company:  G2i
+   Location: Worldwide
+   Score:    92
+   Reasons:  + python; + javascript; + title match; + location fit; + salary ~$3000/mo; + fresh/undated; + contract
+   Apply:    https://himalayas.app/companies/g2i/jobs/senior-python-engineer-llm-code-evaluation
+
+----------------------------------------------------------------------
+
+56. INTEGRATION ENGINEER (PYTHON + ANGULAR)
+   Company:  XKTalent Inc. - Rimutee
+   Location: Worldwide
+   Score:    111
+   Reasons:  + python; + flask; + fastapi; + javascript; + sql; + mysql; + api; + rest; + location fit; + salary ~$4000/mo; + fresh/undated; + contract; + contractor
+   Apply:    https://himalayas.app/companies/rekluti/jobs/integration-engineer-python-angular
+
+   ── Cover Letter ──
+   Subject: Application — INTEGRATION ENGINEER (PYTHON + ANGULAR) at XKTalent Inc. - Rimutee
+   
+   Dear Hiring Manager,
+   
+   I came across the INTEGRATION ENGINEER (PYTHON + ANGULAR) role at XKTalent Inc. - Rimutee and it aligns closely with my work in api, go, java.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+57. AI Engineer
+   Company:  S-PRO
+   Location: Worldwide
+   Score:    72
+   Reasons:  + python; + automation; + git; + location fit; + salary ~$200000/mo; + fresh/undated; + remote; + flexible schedule
+   Apply:    https://himalayas.app/companies/s-pro/jobs/ai-engineer
+
+----------------------------------------------------------------------
+
+58. Tech Lead/Senior Node.js Backend Engineer (Infrastructure & High-Load Systems)
+   Company:  EasySoftGroup
+   Location: Worldwide
+   Score:    101
+   Reasons:  + node; + automation; + ci/cd; + git; + api; + title match; + location fit; + salary ~$7000/mo; + fresh/undated; + async
+   Apply:    https://himalayas.app/companies/easysoftgroup/jobs/tech-lead-senior-node-js-backend-engineer-infrastructure-high-load-systems
+
+   ── Cover Letter ──
+   Subject: Application — Tech Lead/Senior Node.js Backend Engineer (Infrastructure & High-Load Systems) at EasySoftGroup
+   
+   Dear Hiring Manager,
+   
+   I came across the Tech Lead/Senior Node.js Backend Engineer (Infrastructure & High-Load Systems) role at EasySoftGroup and it aligns closely with my work in api, automation, ci/cd.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+59. Product Engineer – Core APIS Backend
+   Company:  Trafilea
+   Location: Worldwide
+   Score:    79
+   Reasons:  + node; + automation; + sql; + git; + api; + rest; + location fit; + salary ~$4000/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/trafilea-com/jobs/product-engineer-core-apis-backend
+
+----------------------------------------------------------------------
+
+60. Senior Backend Software Engineer
+   Company:  Trivelta
+   Location: Worldwide
+   Score:    98
+   Reasons:  + python; + automation; + ci/cd; + api; + title match; + location fit; + salary ~$3000/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/trivelta/jobs/senior-backend-software-engineer
+
+   ── Cover Letter ──
+   Subject: Application — Senior Backend Software Engineer at Trivelta
+   
+   Dear Hiring Manager,
+   
+   I came across the Senior Backend Software Engineer role at Trivelta and it aligns closely with my work in api, automation, ci/cd.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+61. Senior Node.js Backend Engineer (Infrastructure & High-Load Systems)
+   Company:  EasySoftGroup
+   Location: Worldwide
+   Score:    101
+   Reasons:  + node; + automation; + ci/cd; + git; + api; + title match; + location fit; + salary ~$7000/mo; + fresh/undated; + async
+   Apply:    https://himalayas.app/companies/easysoftgroup/jobs/senior-node-js-backend-engineer-infrastructure-high-load-systems
+
+   ── Cover Letter ──
+   Subject: Application — Senior Node.js Backend Engineer (Infrastructure & High-Load Systems) at EasySoftGroup
+   
+   Dear Hiring Manager,
+   
+   I came across the Senior Node.js Backend Engineer (Infrastructure & High-Load Systems) role at EasySoftGroup and it aligns closely with my work in api, automation, ci/cd.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+62. Back-End Developer
+   Company:  Talent Sam
+   Location: Worldwide
+   Score:    109
+   Reasons:  + python; + php; + node; + sql; + mysql; + postgresql; + docker; + ci/cd; + git; + github; + api; + rest; + location fit; + salary ~$3000/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/talent-sam/jobs/back-end-developer-7915206276
+
+   ── Cover Letter ──
+   Subject: Application — Back-End Developer at Talent Sam
+   
+   Dear Hiring Manager,
+   
+   I came across the Back-End Developer role at Talent Sam and it aligns closely with my work in api, ci/cd, docker.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+63. Senior Backend Developer (PHP)
+   Company:  WhiteTech
+   Location: Worldwide
+   Score:    80
+   Reasons:  + php; + api; + title match; + location fit; + salary ~$3000/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/whitetech/jobs/senior-backend-developer-php-5760461047
+
+----------------------------------------------------------------------
+
+64. Back End Software Engineer (Golang, C++)
+   Company:  Intrepid Ventures
+   Location: Worldwide
+   Score:    97
+   Reasons:  + node; + sql; + mysql; + docker; + git; + api; + rest; + title match; + location fit; + salary ~$3000/mo; + fresh/undated; + remote; + async
+   Apply:    https://himalayas.app/companies/intrepid-ventures/jobs/back-end-software-engineer-golang-c
+
+   ── Cover Letter ──
+   Subject: Application — Back End Software Engineer (Golang, C++) at Intrepid Ventures
+   
+   Dear Hiring Manager,
+   
+   I came across the Back End Software Engineer (Golang, C++) role at Intrepid Ventures and it aligns closely with my work in api, docker, git.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+65. Principal Backend Engineer (Architect Track) -  Remote
+   Company:  Novakid School
+   Location: Worldwide
+   Score:    98
+   Reasons:  + python; + fastapi; + sql; + api; + title match; + location fit; + salary ~$100000/mo; + fresh/undated; + remote
+   Apply:    https://himalayas.app/companies/novakid-school/jobs/principal-backend-engineer-architect-track-remote-4871702843
+
+   ── Cover Letter ──
+   Subject: Application — Principal Backend Engineer (Architect Track) -  Remote at Novakid School
+   
+   Dear Hiring Manager,
+   
+   I came across the Principal Backend Engineer (Architect Track) -  Remote role at Novakid School and it aligns closely with my work in api, go, python.
+   
+   Over the past 10 years I've focused on full-stack dev. A recent example: analytics, boosting customer satisfaction by 15% and retention by 20%.
+   
+   I'd welcome the chance to discuss how I can contribute to your team. My resume is attached and I'm available for a call at your convenience.
+   
+   Thank you for your time and consideration.
+   
+   Sincerely,
+   ABEL SHIKANDA
+   abelshikanda3@gmail.com
+
+----------------------------------------------------------------------
+
+66. Full-stack Developer (React.js + .NET Core) - LATAM
+   Company:  Wuxiaworld Limited
+   Location: Latin America
+   Score:    45
+   Reasons:  + react; + title match; + fresh/undated
+   Apply:    https://jobgether.com/offer/6ab301ba865119c687dde068-full-stack-developer-react.js-.net-core---latam
+
+----------------------------------------------------------------------
+
+67. Senior Full-Stack Developer (React,Java)
+   Company:  Miratech
+   Location: India
+   Score:    45
+   Reasons:  + react; + title match; + fresh/undated
+   Apply:    https://jobgether.com/offer/6ab2bb77865119c687dcab20-senior-full-stack-developer-react-java
+
+----------------------------------------------------------------------
+
+68. Full Stack Developer JavaScript / Vue.js
+   Company:  Grupo TECDATA Engineering
+   Location: Anywhere
+   Score:    60
+   Reasons:  + javascript; + title match; + location fit; + fresh/undated
+   Apply:    https://jobgether.com/offer/6ab1be4a865119c687d8669a-full-stack-developer-javascript-vue.js
+
+----------------------------------------------------------------------
+
+69. Senior Full-Stack Developer (.NET and JavaScript)
+   Company:  nDeavour Consulting
+   Location: Bulgaria
+   Score:    45
+   Reasons:  + javascript; + title match; + fresh/undated
+   Apply:    https://jobgether.com/offer/6ab14dd3865119c687d6c9d3-senior-full-stack-developer-.net-and-javascript
+
+----------------------------------------------------------------------
+
+70. [Job - 31850] Developer FullStack JR - NodeJS + React, Brazil
+   Company:  Ci&T
+   Location: Brazil
+   Score:    60
+   Reasons:  + react; + node; + title match; + fresh/undated
+   Apply:    https://jobgether.com/offer/6ab38e53865119c687e02582-job---31850-developer-fullstack-jr---nodejs-react-brazil
+
+----------------------------------------------------------------------
+
+71. Fullstack Developer (Python + React)
+   Company:  stermedia.ai
+   Location: Poland
+   Score:    60
+   Reasons:  + python; + react; + title match; + fresh/undated
+   Apply:    https://jobgether.com/offer/6ab1be55865119c687d86e91-fullstack-developer-python-react
+
+----------------------------------------------------------------------
+
+72. Fullstack Java + React Developer + AI
+   Company:  Wire IT
+   Location: Portugal
+   Score:    45
+   Reasons:  + react; + title match; + fresh/undated
+   Apply:    https://jobgether.com/offer/6ab1b039865119c687d8579d-fullstack-java-react-developer-ai
+
+----------------------------------------------------------------------
